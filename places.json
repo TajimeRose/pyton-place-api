@@ -15,25 +15,73 @@
             "Friday: 9:00 AM – 5:00 PM",
             "Saturday: 9:00 AM – 5:00 PM",
             "Sunday: 9:00 AM – 5:00 PM"
-        ]
+        ],
+        "phone": "081 685 3284",
+        "website": "https://www.facebook.com/Prachachuen33",
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNTMhCbIK3HVURJTt8uoWOAoQvbIJ8ULc_pyuyAXbLSMIPR14cUXh7YQbKdVClKWtxlFZD8aVQ0L8dhWMl1Ro2vLNhGzXXgmldPOyTQUUasPKuf45aX3Qn_uqZCvHASQH7TXIk8eEyumftYdN11ynVJMFQRc4lAG44WlTvI_fDKH_7ExSdtx9OLVggztuFl6IWtB-1nVos9lWpzFKt0dKPzorwNEXV0wVvJGu4JVYdpCNOB6Az4Av80nDCBdNH0JqNzOqx56c7Ib7dw4_FysoypZvRaNU3gxB6KxDqq2330sxQ&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY"
     },
     {
-        "name": "อู่ซ่อมรถโพธิ์ทองบริการ24ชั่วโมง",
-        "address": "442 Thanon Vibhavadi Rangsit, Khwaeng Sanambin, Khet Don Mueang, Krung Thep Maha Nakhon 10210, Thailand",
+        "name": "Siam Auto service Rangsit klong4",
+        "address": "Lat Sawai, Thanyaburi District, Pathum Thani 12130, Thailand",
         "location": {
-            "lat": 13.9475331,
-            "lng": 100.6158281
+            "lat": 13.9799344,
+            "lng": 100.687982
         },
-        "url": "https://maps.google.com/?cid=6938062088089874406",
+        "url": "https://maps.google.com/?cid=3421609177561088965",
         "opening_hours": [
-            "Monday: Open 24 hours",
-            "Tuesday: Open 24 hours",
-            "Wednesday: Open 24 hours",
-            "Thursday: Open 24 hours",
-            "Friday: Open 24 hours",
-            "Saturday: Open 24 hours",
-            "Sunday: Open 24 hours"
-        ]
+            "Monday: 8:30 AM – 5:30 PM",
+            "Tuesday: 8:30 AM – 5:30 PM",
+            "Wednesday: 8:30 AM – 5:30 PM",
+            "Thursday: 8:30 AM – 5:30 PM",
+            "Friday: 8:30 AM – 5:30 PM",
+            "Saturday: 8:30 AM – 5:30 PM",
+            "Sunday: Closed"
+        ],
+        "phone": "089 787 0939",
+        "website": null,
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNTdxcuX601ljcIPo4IRpCuCIoG3FbGZ6-CTi1PKfXtA2seqXdg5ocQJIA-oXGnxr2CNjyGbV984QixMmmA2Do1g1az8AqHbVcijasA5g5pfl6FTlgVgyyD4_y_aNOtT_g9m4r0ExHkTIn8q5akgHlEQGxvu9TZNC0WGIdsUMLEhTuAJ0xsGW5pCngYrw5DTqyJznfL-qMHjag64qPaIFP8IRX2GomE7uJYmBxyETVvtojiUBAykNTNk6k_k6x6COK7Vc0vssGW_AO8tiHP35kZtoLfjpaPBgNgr6eDvOsyYKg&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY"
+    },
+    {
+        "name": "อู่ซ่อมมาสด้า - Speed Plus Service",
+        "address": "29 ถนน เลี่ยงเมืองนนทบุรี Tambon Talat Kwan, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+        "location": {
+            "lat": 13.8405085,
+            "lng": 100.4996285
+        },
+        "url": "https://maps.google.com/?cid=12912034002853947618",
+        "opening_hours": [
+            "Monday: 9:00 AM – 6:00 PM",
+            "Tuesday: 9:00 AM – 6:00 PM",
+            "Wednesday: Closed",
+            "Thursday: 9:00 AM – 6:00 PM",
+            "Friday: 9:00 AM – 6:00 PM",
+            "Saturday: 9:00 AM – 6:00 PM",
+            "Sunday: 9:00 AM – 6:00 PM"
+        ],
+        "phone": "065 098 3929",
+        "website": "https://www.facebook.com/speedplusservice/",
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNR4hvN2IurnJmlTDEbCAwr-THsvZRpsfAe-oAHGUPGeWrvPjR57wAnRrjiPquvD42b7jYHTXEUUkl4pUxBvp52v9uTUHlJOF5Wu9Qh0CTrs3J_bd_Q2Ia5r_aJtvbYSp-qUifmR6b8gkWiEB6ZOeRfwkbTGNfd04hXORAH-ebJykD3NHH0kMcQPIDkmZ2ffBfvDiu9YWKC6wqst3DWzv0d8OCLvxOWY0JdLWTP7_gFaO8KgfZwoM6DL_7O-gvdYWo_s-buDLL2jKdzruhZUpW5uye5pu_SyOn_XBga8W7nbXMvV0xhqYnQVaaTF1g8jDRJkJq-J98xVoA4XbqQYM3WN7EGdK03I9x411MTYZVkNK3kp0hkQNlzVu7wwfVyFJaKlF9JBXI73MbyTtScCMZAmygz3HMFjZGPm0n6poEnPcd-Y&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY"
+    },
+    {
+        "name": "อู่สุรศักดิ์การช่าง",
+        "address": "270 1 หมู่ 6 Thanon Suk Sawat, Khwaeng Rat Burana, Khet Rat Burana, Krung Thep Maha Nakhon 10140, Thailand",
+        "location": {
+            "lat": 13.6674089,
+            "lng": 100.5148086
+        },
+        "url": "https://maps.google.com/?cid=16500587036307535202",
+        "opening_hours": [
+            "Monday: 9:00 AM – 5:00 PM",
+            "Tuesday: 9:00 AM – 5:00 PM",
+            "Wednesday: 9:00 AM – 5:00 PM",
+            "Thursday: 9:00 AM – 5:00 PM",
+            "Friday: 9:00 AM – 5:00 PM",
+            "Saturday: 9:00 AM – 5:00 PM",
+            "Sunday: 9:00 AM – 5:00 PM"
+        ],
+        "phone": "090 913 8236",
+        "website": null,
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNR6ADJTema1iBNCUd64zVfLDokdy2OiPOf_Wk_owDVBCWH5-B02_Ix1ltDVsMWiD3Y84zUXc7OMhS1llBV_htZSFXXSzidmqFp67afzrYx_RbPZVSDPla9IBOfFwcbxgkAmvoigj7jI5x4Az2XUJLfXbdJaO70u02ETxy4TxC1x_7Y0LS0tV01vN8otBJMpnJGrFnpQ_oM5wR2lWzwCmuHWtpGLjdXjzBIlX6zi5-hWWdyFC2bzLKF6ZicZ69-V3mGW3wsE9qg4MS3PYSCWShFjB_XfZy5bl0MCNnwr_1AxFQ&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY"
     },
     {
         "name": "อู่รับซ่อมมาสด้า RT Auto Garage",
@@ -51,132 +99,9 @@
             "Friday: 9:00 AM – 6:00 PM",
             "Saturday: 9:00 AM – 6:00 PM",
             "Sunday: Closed"
-        ]
-    },
-    {
-        "name": "Ruamcharoen Auto Service Company Limited",
-        "address": "2 ถนนพหลโยธิน 46/1 Khwaeng Anusawari, Khet Bang Khen, Krung Thep Maha Nakhon 10220, Thailand",
-        "location": {
-            "lat": 13.8847865,
-            "lng": 100.6027434
-        },
-        "url": "https://maps.google.com/?cid=17972929280528395511",
-        "opening_hours": [
-            "Monday: 8:30 AM – 5:30 PM",
-            "Tuesday: 8:30 AM – 5:30 PM",
-            "Wednesday: 8:30 AM – 5:30 PM",
-            "Thursday: 8:30 AM – 5:30 PM",
-            "Friday: 8:30 AM – 5:30 PM",
-            "Saturday: 8:30 AM – 5:30 PM",
-            "Sunday: 9:00 AM – 5:00 PM"
-        ]
-    },
-    {
-        "name": "อู่พิทักษ์ยนต์บริการ",
-        "address": "ใกล้กับโรงพยาบาลสายไหม 21, 14 Thanon Chaloem Phong, Khwaeng Sai Mai, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
-        "location": {
-            "lat": 13.9290647,
-            "lng": 100.6834175
-        },
-        "url": "https://maps.google.com/?cid=15856926044630979485",
-        "opening_hours": [
-            "Monday: 9:00 AM – 5:30 PM",
-            "Tuesday: 9:00 AM – 5:30 PM",
-            "Wednesday: 9:00 AM – 5:30 PM",
-            "Thursday: 9:00 AM – 5:30 PM",
-            "Friday: 9:00 AM – 5:30 PM",
-            "Saturday: 9:00 AM – 5:30 PM",
-            "Sunday: 9:00 AM – 1:00 PM"
-        ]
-    },
-    {
-        "name": "อู่เปี๊ยกออโต้เซอร์วิส",
-        "address": "เลขที่3 ซอย คู้บอน 27 แยก 6 Khwaeng Tha Raeng, Khet Bang Khen, Krung Thep Maha Nakhon 10220, Thailand",
-        "location": {
-            "lat": 13.8566527,
-            "lng": 100.6672958
-        },
-        "url": "https://maps.google.com/?cid=13822371823151289782",
-        "opening_hours": [
-            "Monday: 8:30 AM – 6:00 PM",
-            "Tuesday: 8:30 AM – 6:00 PM",
-            "Wednesday: 8:30 AM – 6:00 PM",
-            "Thursday: 8:30 AM – 6:00 PM",
-            "Friday: 8:30 AM – 6:00 PM",
-            "Saturday: 8:30 AM – 6:00 PM",
-            "Sunday: 8:30 AM – 6:00 PM"
-        ]
-    },
-    {
-        "name": "ร้านซ่อมมอเตอร์ไซค์ มนัสเซอร์วิส",
-        "address": "390 Lat Phrao 87, Khlong Chaokhun Sing, Khet Wang Thonglang, Krung Thep Maha Nakhon 10310, Thailand",
-        "location": {
-            "lat": 13.7940738,
-            "lng": 100.618953
-        },
-        "url": "https://maps.google.com/?cid=899733143010818428",
-        "opening_hours": [
-            "Monday: 8:00 AM – 8:00 PM",
-            "Tuesday: 8:00 AM – 8:00 PM",
-            "Wednesday: 8:00 AM – 8:00 PM",
-            "Thursday: 8:00 AM – 8:00 PM",
-            "Friday: 8:00 AM – 8:00 PM",
-            "Saturday: 8:00 AM – 8:00 PM",
-            "Sunday: Closed"
-        ]
-    },
-    {
-        "name": "อู่จ่าบอล การช่างเซอร์วิส",
-        "address": "ตรงข้ามร้านซักรีด24ซม Thanon Phing Nakhon, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
-        "location": {
-            "lat": 13.9093432,
-            "lng": 100.564003
-        },
-        "url": "https://maps.google.com/?cid=13089828181464614929",
-        "opening_hours": [
-            "Monday: Open 24 hours",
-            "Tuesday: Open 24 hours",
-            "Wednesday: Open 24 hours",
-            "Thursday: Open 24 hours",
-            "Friday: Open 24 hours",
-            "Saturday: Open 24 hours",
-            "Sunday: Open 24 hours"
-        ]
-    },
-    {
-        "name": "อู่ช่างต้นซ่อมนิสสัน",
-        "address": "98 หมู่บ้านแก้วประกาศิต หมู่ที่4 ถ.สุขาภิบาล5.ซ.สุขาภิบาล5 35/1 เเขวงออเงิน Khwaeng Khlong Thanon, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
-        "location": {
-            "lat": 13.8879151,
-            "lng": 100.6503167
-        },
-        "url": "https://maps.google.com/?cid=10948802433480303813",
-        "opening_hours": [
-            "Monday: 9:00 AM – 6:00 PM",
-            "Tuesday: 9:00 AM – 6:00 PM",
-            "Wednesday: 9:00 AM – 6:00 PM",
-            "Thursday: 9:00 AM – 6:00 PM",
-            "Friday: 9:00 AM – 6:00 PM",
-            "Saturday: 9:00 AM – 6:00 PM",
-            "Sunday: Closed"
-        ]
-    },
-    {
-        "name": "นวลจันทร์การช่าง",
-        "address": "115/54 ซอยรามอินทรา40 ถนนรามอินทรา แขวงคลองกุ่ม Khwaeng Nuanchan, Khet Bueng Kum, Krung Thep Maha Nakhon 10230, Thailand",
-        "location": {
-            "lat": 13.8430705,
-            "lng": 100.6427328
-        },
-        "url": "https://maps.google.com/?cid=13682837068728617428",
-        "opening_hours": [
-            "Monday: 8:00 AM – 6:00 PM",
-            "Tuesday: 8:00 AM – 6:00 PM",
-            "Wednesday: 8:00 AM – 6:00 PM",
-            "Thursday: 8:00 AM – 6:00 PM",
-            "Friday: 8:00 AM – 6:00 PM",
-            "Saturday: 8:00 AM – 6:00 PM",
-            "Sunday: 8:00 AM – 6:00 PM"
-        ]
+        ],
+        "phone": "085 532 3023",
+        "website": "https://www.facebook.com/RTGarage8/",
+        "photo_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNTucoB8qLxeAo2AmwhEyzdTcivF6cAKi6NOjWbesUaRuwMwiH1jxTR-3EQEOiGYTrvGbth1YVY5pmPej0kF-1y6zZPh2UON45WpEe2iXcPJICajE4_qRkZ5fkFJWgm_2jYDSu5AQwz4byunmeLTHWijBuG4xC38lIKGJMmMB72xePidTxW39GHYkqQyByQbOrTC5wGf9vTmCWGqvYE-d_sXqsfWDk5LRt2FOKLks2htsWC_wDOf3t94Mn0lv4hNC9kFgDzgnJy18ivHqadT8ajX-l70jxERxjQg9on3rdBCcQ&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY"
     }
 ]

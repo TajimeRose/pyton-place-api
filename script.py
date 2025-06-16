@@ -8,7 +8,7 @@ gmaps = googlemaps.Client(key=API_KEY)
 
 # กำหนดพิกัด และ keyword ที่ต้องการค้นหา
 location = (13.8808, 100.5955)  
-radius = 10000
+radius = 25000
 keyword = 'ร้านซ่อมรถยนต์'
 
 
@@ -18,30 +18,43 @@ places_data = []
 
 
 for idx, place in enumerate(results.get('results', [])):
-    if idx >= 10:
+    if idx >= 5:  # จำกัดผลลัพธ์ที่ 5 แห่ง
         break
     place_id = place['place_id']
 
-    #  เรียก Place Details API เพื่อดึงข้อมูลเต็ม
+# ...existing code...
     details = gmaps.place(place_id=place_id, fields=[
-    'name',
-    'formatted_address',
-    'geometry',
-    'url',
-    'opening_hours',
-    'rating',
-    'user_ratings_total'
-])
-
+        'name',
+        'formatted_address',
+        'geometry',
+        'url',
+        'opening_hours',
+        'formatted_phone_number',
+        'website',
+        'photo'  # เปลี่ยนจาก 'photos' เป็น 'photo'
+    ])
+# ...existing code...
 
     result = details.get('result', {})
+    # ดึง url ของรูปแรก (ถ้ามี)
+    photo_url = None
+    photos = result.get('photos')
+    if photos and len(photos) > 0:
+        photo_reference = photos[0].get('photo_reference')
+        if photo_reference:
+            photo_url = f"https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference={photo_reference}&key={API_KEY}"
+
     place_info = {
         'name': result.get('name'),
         'address': result.get('formatted_address'),
         'location': result.get('geometry', {}).get('location'),
         'url': result.get('url'),
-        'opening_hours': result.get('opening_hours', {}).get('weekday_text')
+        'opening_hours': result.get('opening_hours', {}).get('weekday_text'),
+        'phone': result.get('formatted_phone_number'),
+        'website': result.get('website'),
+        'photo_url': photo_url
     }
+# ...existing code...
 
     places_data.append(place_info)
 
