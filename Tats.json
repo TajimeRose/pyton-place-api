@@ -1,0 +1,377 @@
+[
+    {
+        "name": "1. Siam Auto service Rangsit klong4",
+        "address": "Lat Sawai, Thanyaburi District, Pathum Thani 12130, Thailand",
+        "rating": 4.7,
+        "location": {
+            "lat": 13.9799344,
+            "lng": 100.687982
+        },
+        "url": "https://maps.google.com/?cid=3421609177561088965",
+        "opening_hours": [
+            "Monday: 8:30 AM – 5:30 PM",
+            "Tuesday: 8:30 AM – 5:30 PM",
+            "Wednesday: 8:30 AM – 5:30 PM",
+            "Thursday: 8:30 AM – 5:30 PM",
+            "Friday: 8:30 AM – 5:30 PM",
+            "Saturday: 8:30 AM – 5:30 PM",
+            "Sunday: Closed"
+        ],
+        "phone": "089 787 0939",
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNRYUvZRWr3MU0zNXzGGU4vf-u6NDhL-JZr_SA5ntEnO2rte9U2lxDtwze5K18zu7VWcO4kV7T0cGDuPF0YwSAfukvVob29eK_-ML7kBKLjk1JHGmeT_Dd2ksrquqKYWw3xadra3vqfrXTRNXB9ydtFY-FJtPMKB4WwS6JuWBCtyc7kF-XjoM-7jOzf-QtUC0lZ80dksCV_wdsfCXSuul0Iuku3DNO_VmORffwDEs5TSEcnjb9WAVAxvJFR5RroJ_4WZPXXI9o_uKaQhpGAXAHkwj6dzAMMk9Cs-wC5Uhbpemg&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNSvadMkBzv-9bIzvJGwb3n8Kg__9HVXM3wEGj9-HgEdmAA1N69BYVEZv7NqPU6yToFQWMqBX6oi4fSOO8TEa1hBpGI1v5_FTO_kyBmTi725d29v-b9tnd1JilVoT_0zb69Tgw-F-dWPC210fCvAh7RpY69qFbJ-FbAv62EA3aoDKGrlmtH-Ny07OYz_BPwf0QoPLsvSMW_4Fp6hfm9wyebfiDJHm37zhgnCzErnzbgr0yDuP-eqbM6p49xgq0nt1scbsvMWIiF9Wa0jk31rxn1grj0Qnwqwo61QtmDyI6B0KyRZLMkf7hMkUsVG-Fj130tFfUs4gHL8gPX-EvJ-sd_hlK5y6MFiJqGxgU2pVw61KvAJBsOx4LxAmScRk-8PCgZMCh7iKFgxljPbRKVhMvKaHeq0uS2b5zCz9H6CuRFSjw&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNSaANDygPVqXJO6GjD_sYg-2FqD9nRpLHyzG3tm8-oCheynaoef4248PsnpyWFX_CQcUeFAzdlvMktFOgmSQEmJ7sQasUk1igOUineTLYRs8XI0geujuaU9csD7v3N5eggW3Fv4FvDYqId8HqlTsKXsvbQT2t3t0ghyKi3gsSecs6P7zvxgUJmkHhI-pgxwfYAkRNKD2LArX6R4ot42GLk8zQExt7-3Oe7aLYx5I5gNZ6ipWRgxU97QVbAF3EmVE91w1UCUhHLZC8l03egIzYysyGUHuQiesJTd8uGptNfrZogUx4sPNWqyfoQL_XsWBOBZUbb65kB4kQNeU8SyywjJiREvHy_oQGEYRlyTud7GREDgDxgZ1J4Ef1rf7mvXyy0ExYU3Haic6yX86SrVj8c8gqgBkHnVRDLEAM3SnLEjZLFs&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNSuyICwANYWiatU3zHPvn1pw-o3FAXyuutYHzLFXnR5-wobB7i_EJInHLYozom_16LYNTFdgcyCegDsY35iUFHa4_zNCUB5B2p_n_CZY3chXognebq0JxWmD2eW2BH1I-xFFsSIqm0rh7TjWcXHgRHjdC9Onk2BqyewewuTCeD012bcrkgDaED9oFRzCaploTO-XnNCzUHCCcaHGJD4HhrowEafpEAeI7FDgAHHVq-fNyH3FB2s2bX0rCrGK5GS7tVbr6MxDwiR7frSahffYZiUS12c27D049GQqzrlsu9DSEAhQRQz7yFsW9eyrUyjngrxI3uhRe4PCqahg2AYhYpwActD5kR9HLvPEzUPhpijsNSCvd80AU5su1XsEUgEqR75t4nx08LV812D5B4GfWg05lEQ-Kk37peXljYtP4H12g&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNSkuiCercsvzk4u7U3UvZ8NvKhZ29VMaEh-CZRHWy2XWOFmQbCZps0e2mnSLXCJP55Q3mE1x12AVY7otafUfVagf4YMTDysR_52ur4M48KOcQ-IHhET0j9Ca-0JUuHiUDSRptRT_XtN9YPJCjQRXjI_XKfsK4pHfjUew9It7xJ1NvSzA4eeg8oyXfBGyEeAm4Ejcq8cIhlqsjIxvZ-bLhml8F1z_neWEOyyr4-CdmShk36FmKzAfUSqX9QbYurqdutMBSKUvGBcv6Zd6OSeFN-w6ctqYNjVEhMvkmAMKmyv_Em3VWCDXfddmhXLa9rxQORydK1QiRzDKlWd4-HyJSStDtJ0jqRDC-7w9M1AQRjdIlhc6dVzwWHiGRY1hBt1GcTKwBJuC_nxDBA6D6337qeuZNG7kpYNqrGBQxoXQOkD_DDS&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNShq-lX_CcD38qTgq9aACHCDQO16soTcz9pfksuDuDsbySN-Js0azpnSISUgopwOMZkL27ZksC2AJ1aU6mapSLsPqKfcH7QPaQXADg0QUH9X4iCiXd9Ki9ih6XVPbY57aweIEarmuhaZsQ1K2WzUzgMJaW0FFB5ASO2W-GkUasC_gy_Xt5t3hYnRERje8mUzHAFMPf5qZRZ5ekVaf5ks6HxcLin0GXRH-HicTtXA48uHMbDOonVEYDnCbwW-NLcpa8STvw9PE3pFdBMRG_b6ZBUrHBRF6CHiHjvxd4ReoxWylYoczQuNknsCjjWnRLI0LBVC60m5bho3NIwbSF1NdmBYKW-d2Wwg5GAvLhkFbGUNOev3ANg-162AOcgNqqx4PPXI_C1z6hjnJpoDMuuHo1ynUJbeta48nLEIbINIyFTISux&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNSShwkiLQKYEb6V7Es44q0Mp-Ah3tkf1CiXVKSx4_xvSsAaGdmBdIBQvedbP1YyuWmg0HfUby_6_dmuDiqbbr1_ZaElRkYsYMjRZuoesqrMZRqMi6jDivzlPJs3u3QgPvPeInLwaBn8JXxe35VYWShan-0ot9fsbp07XvYnK3ivCxSRozUoj1qco1zuk8Ggu84aTIvyLT2TkJYmlwNcibHuwO5t-tJXRPZfrekF3QWKWwa7-6IwHp0ojkAj9qA0Jz8TIjy_j1TxyMVQIaHIPOEaPzrNipBnHlNsZEssciqgjoSJD5L5Kidm-72_ArmEpIEZApiSnU4ixFktjnhZ4xiNCP1dS0_TFhtjWjR3XTQ3uEX-t4t89ofrMdJ9MWkkqI191Ng1LBJRon9HS6gyHGpvKuurBq1pVkylI2xHNz2qEw&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNRzARFPuiLXmQx4s7vQgNYXjnmHutp2vakWsgvJqQwa3ZltATkTUAcICAHG2nsm0GrnDMHQ0Y6ON4Ho5BJC5H-JIx4YD4RNI6QgSgnZ3sX137CzvIP5F4U0oiIpS6L5I5zLkXyfZrCYDpG0pbz57wD6lOTF7QnaczdvaXvpqY3UV0j42fd_-O2TlWeF8iFocL7pzy2zxgZOtLTX-yNFcMVTGdgW78B-mzbRgWKgzf1VcykjHZ_2wJMyQ3741Rn6wV3r20KJTvf1TAsMmdMKNyVyw8QI_-Ar1IQhSiflAXyOb_IQIMkdHdOLldyaUxyWjfUeS6uFX0k8-FnvATs7P5cuVIPN3LdQ2SOo6f4p0InryNQG8iR9etcD3Sja_dSWP-LSywO-rJqt8GTuQne930_awAa348jtO2zRBUd4A8kOA9kS&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNRexwOXnCA0bw6X4fgqyY0HL9QBFQMZgzjnxYQc6vqRhWG9cLZLiql4mFjY3PT_uynIxBtLLsQ0e4P8mK02pzDG5CT0fQmyqYokcemMLAyxPRlPt5TamOyoN3BHhZB9AJPG-Sw3vn4ArnNDkMJdrITUGCVf1TGuvsZH8FIU5CI-tz7dFe-lhxlVbV8MrqNCuob3YBem4UOtrmpPGZvKFqFZ-48OaXLREXuFZr_uw9I0c9yvnqM2HvYlBg1193GF6cDvkDs3iy85gphaAnVuBrkLATZKRiFGMksVHd9t_Kc0_fBuVBJDjrSeksuR9J5QeaLOx2RE9mtWo9royKQJP5UmWJY1he47PDHHnPzkKHvCvZYXMzabCUn8Wy5xZFwbgJcsz2cEwxev9JYb93FlBl24hUUl5hvIkw-Z824pyCMlkXeX&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNRsggCAQN4AX29qzAs14bVIOos7Hesf4VxCA7gevyYDQGu4hTNB5-zrRPTjbJb2orT1eug_nQystcXO0xh52iVdHFX5hq7bTHCUYJmpgLCOC-VDi7AM_0Z7DpZ2UDRbmWJMr17OlX77yYTLWq9NwTaliPqE_nCt65-zhIdmpm4M2VTF1CMqcJuhJTruRUkBwJa1NLqn1WHTDp4D1eklIYizyOCZESK8U4OugxHo0e2qbzQYDZ4hZZFsH-LszFGTJMVIIhHWYJH_5uYWjPy_b8PDvUCdlCnj4sUebdWZGtMmNZyneOJLiPefqNnOLaA52xbIwG88C0DQ9N8LbVR0-aZTaWlLUNdYhLomQW1B9NrA4ErCmHCRvjXiRfgr2QqZAtJ38RxGwihuCj-LUgPn-NauEutmtxX55-QtJueUxPuAN0s&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY"
+        ],
+        "reviews": [
+            "Send the car for repairs. Gasket is shiny. Appointment to pick up the car on March 13, 25268",
+            "When I entered the service for the first time, I was impressed. I went in to change the front wheel bearings on both sides of a Ford Fiesta. The inspection service and repair work were very good. The owner of the garage gave very good advice. The price is not expensive. Genuine Ford parts are also available to order. It's up to us to choose. They also corrected the loud noise when braking.",
+            "Good service, reasonable price The technician gives good advice...",
+            "I've been a customer here for 15 years. The work is good and up to standard. The prices are fair. When you have a problem with your car, you can always call for advice. The technicians and the garage owners are all lovely. Don't trick me into making random repairs. The analysis of the work is completed well. I recommend this garage 🥰",
+            "23/6/17 3:00 p.m. The car had a problem with not starting. The Masda Tribute was parked at the PK gas station, Khlong Luang (Khlong 3). I am grateful for all the kindness..the staff..the staff of the gas station. ..car care shop..Uncle Motorcycle..and many others..and most importantly, the staff at Siam Auto Rangsit Khlong 3 ... is a confirmation of confidence.. who have been Siam Auto customers for a long time... since Seri Thai.. never really disappointed. In the past, when there was a problem, no matter how big or small, no matter where you were.. you would receive advice and take good care of you... always feeling warm.. for a woman who doesn't know much about engines.. like she's often complained about.. that it's good but drives. 😅 Siam Auto will come and take care of the job and finish it every time.. as well as this time.. the car broke down in Khlong Luang.. unsuccessfully searching for a way to fix it for a long time... called to notify me immediately.. analyzed the condition of driving back and forth 2 times.. because the first time the tools we had prepared were not enough... until we were able to make basic repairs and bring the car back.. The officer who went to fix it told me to take the car home first. You can fix it or not with the shop...they don't charge a service fee..isn't that cute😊..in the end I left the car with the shop..the technician called several taxis in Khlong 3 but refused passengers...in the end, he piled into his motorcycle and delivered it to the entrance of the alley with many bags of luggage. (Because I went to buy at the Thai market)... Waiting for delivery until completed at 8:00 p.m. Thank you both very much..Oh..the cause is that the pump is broken..broken..😢😓"
+        ]
+    },
+    {
+        "name": "2. อู่ซ่อมมาสด้า - Speed Plus Service",
+        "address": "29 ถนน เลี่ยงเมืองนนทบุรี Tambon Talat Kwan, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+        "rating": 4.8,
+        "location": {
+            "lat": 13.8405085,
+            "lng": 100.4996285
+        },
+        "url": "https://maps.google.com/?cid=12912034002853947618",
+        "opening_hours": [
+            "Monday: 9:00 AM – 6:00 PM",
+            "Tuesday: 9:00 AM – 6:00 PM",
+            "Wednesday: Closed",
+            "Thursday: 9:00 AM – 6:00 PM",
+            "Friday: 9:00 AM – 6:00 PM",
+            "Saturday: 9:00 AM – 6:00 PM",
+            "Sunday: 9:00 AM – 6:00 PM"
+        ],
+        "phone": "065 098 3929",
+        "website": "https://www.facebook.com/speedplusservice/",
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNTHWEs3iASc5yWPvM3efCZ7st0PDLteOne8obhW5HxIAUiTuc8zfG4Ggml1fmuHusGzH4iYGMDQcElgQREElNFdeQlF4-3zGuL6zqlna5SIdSg75jNlP7WmDJDVj4s0wotcpaNL8ysW-XQj_JGQDyc3uMeBoLI3moSDo5jIk3cPSUyluzX5mA2GFV1tQK2lrh-QXAmTdzsOJ4pm3XHvAx4-R5-EyM0bok9cFQvhqKM_BlvkdAnsOU7NQP_HxQ3S6HEEPlUDikFjkYO8qk8w8JE-1UtWR9hBPPw0jTKaQUkhSkQhLGo1SdQ7_AeLkFPyZvngHkepe86kK08UJ5wjUureZlyviuD0oag9zNlxaRDiHAUNj2AqsD7aSn5Tm2f-mfP3lI6CN_r21mFdgdNerNSs3z5XxQnzRM0hfc-X_t1oG0lU&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNSO8xfA9l-2UTDXTwUNetn3-sr34AiR2vPVZVqYHY4j7bedm3oVFPclR8vLoysW_55oJ-iMxH1WRzxwT-s7r_Es6TRrdmWXrtcMFuo_IykmVZFtD4omTgSijLPrx4cvXBPQ0otk2XAchmqvXmTBwazV_XbiSzug9vBMB-XD0EjwQbreiOih2i8wNYe5C_NvWPKeCiA1bRsMT6QNToTqqoeDZFOWuLOt4p71UBbDArlhTf-k2hjb3kWNFTqhuEjqD0DaBdJALIiXYCOpWJHFJBbmW6FP2kTHOkBkp3rW9vdrYyPRv0DnUti9-gyKEZjAP_DAowNypaMamXyhCUgok9NaujFTyGkIikLA_3evZjqay_vlG5Op0cIlD_SAaZooL7_GCIbPP9qJde7OdNPIoK5kzOBL5P85mM9cHtpWEDy0zA&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNSWSUwOj1U6uiUAkR04gBCjiiEtali5A76H2FGnWYcRt2uHm-cO_JlImmKJkLqFCixZpCYIjWINTDsUhmFt_qgPHkNXHX3oWbEiSNFJrAvKxbKPDQV9-hpQj4r5N3cwHJNKzuKCvS_Ys-x6J7_sHMQ1PTcxFckU5BX87oukJuU9oHzwlEhjCr6fSox-QM2BWEioZATTcKEVt0RikBdlDfCBY3Dd6_tdtk1rvE-iC6JvRHu_GlEBMQQwZ3-WrluCNFVftQFJ9BdCZDcQKreFGHfTl6fE6B1MxPKD_o6zo4YKrkAq14CWSVjk1QFK4wd-MCqcbe7XBVh1zyFInUdIX4QVxoJHSgkqSGTSrhnRBWJiJLJvBupnHInLZo_B6YSUYgDFP1IBaSIZhGIrD5-7VCL8hWpWZR801bTmr2EgD6OWtUPc&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNQH9EcuQzbDD_449xkJaVwvRxrMpqZxkKkMeuy19L2yT4taH4QkglLCBFil7-J0hHY4jecDmo_mJxJaIwINS08cV8wGU1OX29d9V_jY4PzyV_Rqr5qkwoYCQvQ_glz109-1g09mF8IkFSdZi8-ZUCGaEN9MKPXmure21_5vuXnur1TFtbPEMpAOplMUwIjWfzLKKL6VztfS6oe1vbNZhN05za4knK3bxL08nPaOq7yfdRcy9nXOR8E8xplZkHDI7XRSNgCqzTspoob47CuCCXW6iJJvQX5YtJUleRh8ZwtrJL7uOw_bhaGm2lfiZsyNKcPqcCrWleBVVE4AkotdLiIL4wwsFlJwigOj1BwIKvOcd4X1-KLF3Aj_d60HGHhIvxEyf300087HPLwWhPH_1vGd1oN06NDxeNlt_GOz937pgONz&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNRk_o-pufAaojJgT9wCYU2IemyFoJJ-LFFM5DHc460ywmHP249uPH_g95xdx4DCpMlAE7WlRso1cjF_37ClSkc0A0qFmcjqlTvapjoD_Kp47VgSlPRuHpvfMuf4LV-59OYi8TsEJ-jKQ2Rcp82RyhKArlWo_lHaqJbxAn4ejXagzXuo6FyPRBugIeIPQQEkvxX8yGxGg6oyS6JYBHNXQpV7hM9ZAZGKLyl_zMPvMbjmoyNluX7WTANha2qd8226LfQg99GhKTzYwXHK3cHUnNc0s4yWXlhaSdU41_by-JLR4hn32spLuMfv_xb5lcRyvOBgxBHorFQQyoaUnkqzgV68Zxj7b3uRMbyxtPLlfbT8wmkY9qG_SDabvgY9gIwD-YcMFvRGmHruAZu--RTJKp5X7GD36BYVJmxsbHAv2fM&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNQyou-o0Uvou-XCSjVSs3swTw4YrRs1FwOEGKBzT5ijpGGS23zpbpOE7TulnpE5YQpG6jlzHNL1xpO-2rNmcHua8-Ux4iFYg3iuzYKpzB1BH_8JkVDLZ_BjJ7Np50BVbhGE_XzX-yH7T91U14JyQFN2Rn0bTrtg9tm8UFwQaI3n3laKFAdu5MOx96wMt3Fy1-UsONvEbo5Qhd7Y_81HCB2dO8d9YUOqK5ab1a0JNOLW9aioQo-G_PmqWXfg-5RrmgmhaZZFiiIH9cUkkbo2fBvIocuUCzeGqgfR0VEik0AFFRBPfDErqCQI_DbFABeRBaKkWEfYcXBPI4_0SzfNH0V48zA3EVQL6O8Yqz2PgICFf_qIwzHwMaxTVRLAiao-gT963jyt1_8Gt0l5IJj_IYo6SqRvG93TpUXsgazlP_EVXQ&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNSqpXElNvxKSmdhDzQxTlL6-Kr9WpfGj_L4tFHweuDcZdsJlqoxpep-YQxayvPwnB2O5OP8zfqREwJfNikJ3d0NqvjWidP0EkomflltMUf8FJxe42g4CWNblzvUcRbNp6i_EiHaR4E0Haux0-2c_X0fD1eMYn8K54yl3nbZQBZ9Ro0AlAr7WYvUakq6dgBRYpIaHmKnezTx8vN4UuiSCCV8jeDkMXgh1Ni59yI00zsiX7O0w19H1dkPh0PywiOBELy03B-P1r6vuB8--YJGO0kYqvv6UWVRvZQ4hp3nhkctOfXKIPr2tKHG-l4Om3tRNYg9cXH_a5bfRMAyClQy5c3pu1IA0b2fNi0CBRfkrzLVxcQ1eu7edKu4RDu8ASyd5wM8c0uah1MZkYqlmX114CpgyMh3JL3zb1Oj5vbh88BDzFA&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNRnU28oC0sJ1H4DgpWK77WR-pIVSA9Y7P6G1bt6p2SHpxUCzR8I7Gph80ngDeWBYOW7BLerTbuBJyFobWaFwMqE60cKtCkE9qhaW4c2gXatT8RFaqKfJX_mXFIBi4i_vV-sojNi1fWKE1LOgli6cfHYiUCuTep2l7mOY3GChPUa0qzJTD2iSGbAPR4eRn_ypIhM54nUxUT5aEA6N6_y7MJNOQzBJIP9k7ACPQ6k14RNejK0wvYoNO0F-0ChqFt00VI19uM6MO74Ia6ziaTCr_amKLv0-dDd4ORluW1I-HOGCJf84OVlLh-ARewCSGnOsbGKc47yY91t2dcdx_faFELCzA6lpAh6VFtqNhOn5KtWkdRrsDL3CiBUW0xt-hU-fgCbDhgB9vFuCVIG6yKU1i_X-jI5Mphn3Clegjgy544jzqg4&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNRPsNXtyZjdP94XYmEAPHNcdgdI_7P6UpZxvFI_e2M_PuUWF5mX-HLkIqgbJnFH7Hgrjk5dvl8QEaaHmKOaCe_FdxnalwBzUjZBAZOJ4yqzZ6M1GkX6ruPQCYRSk9I6peBgJkOBxCGQ-nGtg_mVpbjdUPo6h-eBrrGpjqjJXN1HAOxsBhD6cP-sVLEK0ncB2n_TxxJgrQ0-rIvESAm3Xmavd4Z4oitN-Vvy42X1toETpXZumvC3-Def-CDITdfwu8qd3oWxTDp1PcshHsd3Mxspz8yNE9jt2KYoE6ZN7bPXYldhuumq15IveYaFr36edVxYYLpkSo8vDAdHmbrGukP7f-5wxTUuZsamOYq7SU0b_Pyq1Jbn4oX7w-khLYhUScgNv1v-ZLSde8cHW7PdA0VcZd2z4ETsV9FuHBE9qQyYrgSQ&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNSlAlYghFfhw13gC1tHMqAwKrNzaDPebp9qYENV_iyRyC2wuHKFMl6zD1UtQzbLJkTG-iWmD5_9joGJsi_EZ-jM7shvR0B4bfcTjCduN7scVsVqRHuf0GcXWg2gm073qf7QfLRFDC1r8CqpvII8LGD1rspQBrAgqucTaO_U-mncq68oagT-_ngl7L-GRGKZmbZ8rKwGau7y0DibmyfLRLfCYvPrn1W-yk1xE6RRWAyNQNnpuhA7Wecx-ZKHw--92JoUXoGDydG0tmbLQ0eBkmQ1RQ2eGxZF_TJDKYCfdgmkuDUD-MOlP4GRVT_8ymL_9aDArtZWj3n1pCcUdaE7fhiHYbi-iHbq_d8413nPC2qNqtGokuMryzALiTjHHghNHmC50NLBjnut70WTIQ3nUEDAGHwk5NSy2BYUu28BUlMetw&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY"
+        ],
+        "reviews": [
+            "Took my car to get the aircon fixed today, took a little longer that expected but the staff were very polite and instructive.\n\nThe price was ~3,000฿ higher than what they said during the call as they told me that the expansion valve was clogged and also had to be replaced as well as the control valve. But the air con is back to normal after they fixed it.\n\nGreat service after all.",
+            "Got my vehicle air conditioner checked and repaired by changing value control and expansion value for reasonable price.",
+            "This is Mazda specific garage.\nThere's full function service provided.\nWould recommend Mazda users to consider visiting and discussing prior to making decisions of repairing any parts.",
+            "Good service and detail!",
+            "Great service,good recommend from staff"
+        ]
+    },
+    {
+        "name": "3. อู่ซ่อมรถเอกชัย ออโต้เซอร์วิส",
+        "address": "52 97 ตำบล คลองหนึ่ง Tambon Khlong Nung, Amphoe Khlong Luang, Chang Wat Pathum Thani 12120, Thailand",
+        "rating": 4.6,
+        "location": {
+            "lat": 14.111622,
+            "lng": 100.5964579
+        },
+        "url": "https://maps.google.com/?cid=841587752424758292",
+        "opening_hours": [
+            "Monday: 7:30 AM – 6:00 PM",
+            "Tuesday: 7:30 AM – 6:00 PM",
+            "Wednesday: 7:30 AM – 6:00 PM",
+            "Thursday: 7:30 AM – 6:00 PM",
+            "Friday: 7:30 AM – 6:00 PM",
+            "Saturday: 7:30 AM – 6:00 PM",
+            "Sunday: Closed"
+        ],
+        "phone": "02 529 1675",
+        "website": "https://www.facebook.com/pages/%E0%B8%AB%E0%B8%88%E0%B8%81%E0%B8%95%E0%B9%8A%E0%B8%B0%E0%B8%A1%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%8B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A7%E0%B8%B4%E0%B8%AA-%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B8%84%E0%B8%A3/507886852580848",
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNRJxAsaT2om9GDN4G7GoiQ7zx8RKW4sOxWWn5fWZlBcgxcAvqjCj6I_2mIukydjYFnUIF0_lsn_OmLDvXgiJj5bj7OdUmq9pMJ7O8ewvAitscbmPm6zA9vNWK83IEyo95jONR1-Ko73jXF6FuEGGSmqiz0GXko4x60gob3iP-wltIdmBMFw3k0JDc6ZC98hez_eUUt7VCBnqFxBNYiUGHoJ9CkwNmACkbxpDZu3c87geS-XuElhWrFX9zLKV50OE7mg_JMFGcP8R1MeIjea6udVPqY5GilZrZx5PwvEsDqqBgfXtdf87luPR36vK-SfvwnRrDQdhNpvh52TJUwj9gue6AoQowRfcbfmPpZaC6umG5QjavI-yQIjS65Di9-th5lO_NctXQ5BFvAApuE3e5ns1E5GysiGGzg-VKxDKftFlQ&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNT7w3YB_mh0JEy987yjGXm_94AI9LjQCuzr8KuvoRVFZWeTC3Cxci6OrCk5Z_untIWTJYOGKs8HaZ3pHNGQn73qgnROvtD6RHZJ1kV2HGlxGGFtvUtZZe_c77EJ2OJ8yZMKkqU3BAS6YWvrXE2jwqYBrwW1f2sqINExs0chrtqG5MyrodBWR3myv7sunQxjuXvEJx_EHFThkjxR-Gdo_ksvN2t18hUbzRJO5jvXYaD03ugWro4694OUFv9avSj_fBOIbCMTDhyndwsuUnTdQApV_uGeYMInlYhElU0P7_t_kWGCgjPq2KLgIwPU5_fSm-Fbpy1fBP0QMGsNoA41drirrLsyPNh7q7cICUGi1IVGTgkY-ZJN2la53iin2R1MqSrA_DEoF8duxuUWLO87btdFZN2q8aoftn50cDEdIkc&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNSRNzcSqwuv9KB5BhBauO61UMJtwoFK2k59CbIw-h-HWRzVF5bj0H28djRMZtlYs3K8ilOQu2jQlXhnuI-XJwbv5VwueH0JNhMj5SY5w-c9zV5smOTX5dZ0MlY28Cz_uDX3OQus5XajAnVXn5CbxQw-8cfs_ojnoHetXGb5GwPgREfT71WvDTMV7w8xMx1SCllkKEhDPYYWIuqDaWV57XCr8b6sbB9esA1B2LDy1v52r0WR6GglsAxCuDJRcLEyr_c9FdSwWnWfl8KKiGdH_uUdTSDWIiMk44uiB-AGpg9rv-CyA-urCm0-lp2GW4rbkcjH6EYk4Rz_zxgRWnGeqQT2GzfP-yQx_Vv_SNMOYB8aVnCx9r7fZwJKpSxqD-ZTejlVhQKGoiTDR96XAGnhBv4nnHFs5C3DOJN37X3nh8idHHnR&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNTYk-XTyOpH6b-zJUb4g2ruo25lshnpOmct3_VSuA44ZwDU4r_2qP2N7XEEzut83EBCzg7MR-DcvSrGjxylMpLSiomMqM6xU9a_ZMyTecjIc3cw4sMINk6zTXgUOR4HnAPBg_Al2_kS2M7Lyk-PDtmKQx-QQaNd6pyjvsuU5RIkgJy1MA4EfRlVPm_Bdgdion6NgJVIXTg33h_Udx_-EHk98AwHiw3SWyX0aXU68INp_uHSc795f9-P90JRT_KSRgiGlDPiEGoEWN0OO2SelfU_oOCF1hpKJwRuI6BkDv0jyw3lULlY3o0me8kz_ai8V7RNQl1PaFaL3BVNWevbD2vdgcAcFqF6PwAzZ-SoIk8VH1-oJOOkMlFggYqpAksUxG8NpBi8sK4ajZoUEPx0i1t3QpU2Mqq9y7uy8YvWc8Bb6g&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNTzjZjwweOcaBhAc6pNSPfHikOP3JD6kzLPh1KKokY9v16LDkYnV8R8R8der4wNzBQI9FEbimFHrK76DfctVe88rvY91duy4qa0oePC6f9LX5iQg-clgxnW42ilsZAMLLXCJidmP8baKq6dF4hJjlz2Bqvqi9qsEioYVKadCwbSw9j3BIB73zutLixPbrTIKROUsCUTmzyB3b-4EEYBn6qIBuej_l-rnDvET3rvp4PxzIbqL4YLbiy4gWV61ngjj4zQtCoc6Or4NjySFCPCT4Fq0OnUcGVcK2c76HAE_PvyAPvB9FEP4GRE3qKXfEOvQ0xE7qlVww-vTfTEy0TPthHMDUdU3HkRMwyzwavyWr3cp2SOGIH3LZhAy_ROIcfS6Xv6j9O5nvcpCOprkAJfk1hRreBfkOhLFeTBV5pgK5ER1A&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNSgh4Ld6bL1jzo6gvvsnVfI6njJNlcOp3rWJ3M2y765UnWKGVHZXU4-QxE33zQ9ihJLewJJpY2Dxwi7Q-tRWxr85bTXjKilBF6p1XYUc1q3KsXUDyNN-bPRkYkEDKFhtfDjw6vZAIEravWpeeA5cKbO-zS_WmD5aJBRjU2g4R3_MaWlqcp-bHcITVuzzllMFVKZjOivuASxFzBVqVGl12RZGgDkvtbPp7CpuLkwngztxAK4IlSESnppuuN5WWMtTPAd7iO4XR8fl47xqdKZOjSib1M9v4vCHckjk8iwwRMPAQGBmv-tIx_k3oFgbzIoEkTQI7KRT3wnCqY1gJU_XtXQfJ6gw-Co9S_esof3HnkH9KGlaPyArJX-nkcGSVLLj84e8ZR_azb3hOqPBcgxYj5HDFevW7chAP_cjO_pTwQSFhI&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNRIatSMls9bBizXmmlaBd3HVDScV93nCl34TVc1WY21eiH0srOqfabNa1aJhIXyWtP6LnzZHsoDSN6LjMYjoPlornCLScRe5bsu47pMZCAVqkeoaycaKin0pktFLOujiezQZ9a22AXCuIdAejdzAGJClFrQ2fsJy9mCk8vy9GHdOVDFK44yME3RsjdDHcTxiOslD0BwMiK_X1XaKbAYBe9wUt06hFx77XVQp17EazWR3c_vNTv11sM_m84ZOX3Fp0G9e_araHG7pRt4RHeYU6CtlWOHCTXb8Wf7QMb3PkBdoh54m4puw3k68TmfoeNPOXpQHAudADFx_SkOWIYpcKSFb_-k5xGWb7LaVZkOANGVpr8cb6U644ctnUzDOnoWF-R51wvi3658BAweJNeYgRdg5HwXZELuB2htOBexDs4eVlRL&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNQQ2JNapUDPUHzNhLnUxIRQxENPEdigG8AvyK7pzWjyXLH8U297rtk4txfQJ19AuDsa6Oz-wcYQTb29wsjp6UcTRG0YeX4XpVm4gFAuUxxbt7Nv3XgJw-sqwyQXaeZjyFcl2c8Wj5T-_lAyoAqRI9U1PZhidvsjRPi9DbWme5cQE8dP_zR9bIVpkIBpLhXyOsef5DlSrNyZnfK3g3zFOeXNTZxKTMczzJ5h9JYsm0WDZnCKhYLZOQhjrYVyaN-Vy-Pi_dPPDxAflRZWhQVCT1WSjRNn-woIZ5kGCcqh7Tm1Oxy7l-bocUUirOQjriqxHl7vrdr_-ZPd_4Zw50-_sjGBxmJ3qLLpBtkuo5MBoRnOaxnuFSdt_X5gax6s_9DwsLT69IRh8WqNb-nNCCs3rUaMyf2jjlg7Lpj-RMlfDE2PJg&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNQcow7Jdb7LBGYcS6sChR1PzLz6364isgW2LXOZAQa_dYl6lVyXELA21UV2YAY1rvx-S3g9JB7Evjc2TjxYufuaaX85ZN-d_ekoxAu08pxDkO78oxzCsRjbF2sW84QUnOQg-FS4N3l3cpOpvPzcd-24zpZ5h76-2ODGvx0hko0lQSaD_xUq5pdCrOXQ4btxYkfhIfz7F9s053Cx157H0aGYu5w6Y9s-vXKrUuELAaysyaLzX8WMg4NZjtiqm-G9S0fp7teHNLqtIa_xCZClw67WPwe9ivT3VkV4JAgozb1gyix4aJp8ZP72iC4o8nX0wL4lk75rAtPpeQihXvK96P9Bgmpms7mVkuQE36NLUrIdc0MkPx51pCgn_LwVGuqC1Q4s0jxZEqHfJEcx8XvTKuptswMUyOhB5qjb-alzbjEttg&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNR3liPt4iKBctjQy99zu-im56xfBZbdk8pah-DFMmNMWYXnuoBb0Lz3xnBIm39meQmAiMTNl7LEiT12rcLd6TN_oAMDi9w_bNu11UD-AtaXGvgww2fLmn82_pDFhh6RV3NRYw7fqVKbpLZDSFv1E9iRLEEVkNDgw3Rvtl5f2PCvDiYDOh3z0e7BOoVUOJxav6Sabwg_QnKT1rrTKBY1ubwG4j4ej9ZpU4nCLk_olz7weMV_FRJgctbrhpcrZ1aPWfT1xxPsd5Ov9AxI98VTfHfdLiJ_RTtFmK4K8ZtVzuD5ZMM1bWW25TdsCHPDDDojU8vybh6HsNTY6mfHym1r0iqQN46DE1W0l3OKWLVIDcbVj8x_rWuvUvUv8CoiiuVh5jC3l1v4THu37EeZnKdUUa83zhM8rwo_Yat3Jfzr62A&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY"
+        ],
+        "reviews": [
+            "Good",
+            "Wow",
+            "Customer service is good-natured, prices are moderate.",
+            "Whether moving house to another place We must come back to use the service here. It's peace of mind. To be honest, I don't trust other technicians.",
+            "The service is very good. The owner is very kind, the technician is also skilled, the repairs are done quickly, the price is not expensive, I recommend."
+        ]
+    },
+    {
+        "name": "4. BM Bangkae Service",
+        "address": "4 Soi Phet Kasem 25/5, Khwaeng Bang Wa, Khet Phasi Charoen, Krung Thep Maha Nakhon 10160, Thailand",
+        "rating": 4.8,
+        "location": {
+            "lat": 13.7186021,
+            "lng": 100.4549026
+        },
+        "url": "https://maps.google.com/?cid=9073046560464020694",
+        "opening_hours": [
+            "Monday: 8:30 AM – 5:30 PM",
+            "Tuesday: 8:30 AM – 5:30 PM",
+            "Wednesday: 8:30 AM – 5:30 PM",
+            "Thursday: 8:30 AM – 5:30 PM",
+            "Friday: 8:30 AM – 5:30 PM",
+            "Saturday: 8:30 AM – 5:30 PM",
+            "Sunday: Closed"
+        ],
+        "phone": "092 695 9655",
+        "website": "https://www.อู่ซ่อมรถบีเอ็ม.com/",
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNRZfWmJnZQ0jVZhltUjk_zM8V0zk6reN5cIv7QhNMMudZTvsOXQKpCszJ6zq9L-g8hiDM6mrkaEZlunIW9wJwrRsNEu7K8dQ_98rZb3xsLOunBmwUFpCxmfHg8kDiHEaGWOErDSKciTxq6_ZiGWrEt6dQqE-zr1OWqx25LwXCxrBnDlgrpyW_1PSgM1lY5-Rga_pjr3ORB8l6v1bGSm9W1kP2f8d7QzVkmq-NMf_pPKwBWO1NqvvHeS7h-Uyf7A1mHR1VvCCPm3CfYI9zi1KCCWbHqp0akZiEbCvk5MsSZhuw&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNSnEai1bvSWDAJuNGZfiNJ1zdN7mBdjG3_RXdRit59PxDHhqWSKWod4vg6RglLDOCQcUCR-ZJM3Rzqx70IBm5mDH3aTyjHv9x3yyUWW8YFGLwnFas6kC7WZL-ZJ5yR2KOpC7UDh9aicfWgEd4t3Xyw539riDYrAd5FcFqoW7LzyqB9DQ4DPq2Df-sFc6YEKdBRR7SRfdG0RNnR2WAFMSBXjexfUbGHrZn7bbA_gcz17veVL3PGPso80TRoDV66Y2J8xOgZKtGiLyU7xYW5OpT4rQ4osHMZIUKDkleSaA9zBmLwyHbYWHKi3jm87xSyEHb-9k84e5fVRg7MAJyTan7S3c1MD1HIOag6RfNTMx1lErCF6zsGq-sSyT0UHMsvKMayJZaWr4dIpoHNIFsAhXYywgpqblhcGdE8kH7R1pVtl5fI&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNRm4AL9lh2H6hhxIl63B__CxwDls0bveKqycT_DgwIFhBAhhxHF6i3OJ9DGqnSiLJb-JahGSqd2LW6ndPmTjZX3IuHiyAVyW6aAlLlg084xgE0NruJSPPZ546rKG7V-G42yRlTmqHUy7RCWoKX0DVAT99UDqgGvRYGlovPOuJkFfh0VzfTsSJPVoLvKLuJUS5IZFJulJw8mSyTSMSIfn5--qGTGWCqDHm-ylXnTnDzBOg2xKfk4zVmJwtjTF1iyP3ozmYZJV7iNBse0L8HSZpuIe1imNNPOt5du32o0qceGPUNlOfkH69hWqx4mAuESsoTBeFWUuaBfHosh5qZCbS4fBzKOFDqBmV55shL9-MT89tGONp-VxkEU3wMtU6J6eSwMDXbgNi7M2Yp-WKHlvFtcY2IQpR3LMEHL6MngnBr8GQ&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNQrNkucNQwUqYZkUrOON1XACfCr0nrI4WIFIEqvVnL-gYFnIIpWjD2eeJGCn4MjB3xFsKsW-Pz5NCns3me5mGMdavXZ7SK-Pe0v-grR-9PMHIUSz_RlCp077iWXxL2O9T1WrE_R1sR1InWXcgD5yVsa3tE0V--2sgIQrLUEhPNfPYASy9PCDB01eGeRcxXcCRJjW2stV-OB-Say4g7q-nq0yTF03jXNOX9nIJpECulya_TiEu4N26K6YGxJ52Rm3psW-2LZqAIATxy7G78Vajs39iTB_uPDYdZDlsdTaI8AMkswzsHaY2iAm_8SziqghGZ4EjvnPSbKiJHJcMoG5A-T1fMnAHCQBu6Oo1pbm4cGQM6Hpc3WqWhAToVUwiZ4ygNkBEQ5KEsesl1bFdluyXCHHqCsrn18JuwiqctINwS8DCBn&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNTYDaNaUnFELdrB-mnZeeEpMPRxp4d0idefw8stO40hc8vV-xtdMnZlROJmQP5AkiSN6N1BdXyfsODFcZzav5DVosuBY9cwrDFUdrQKda6pcgPQqIMqcObDEByLd3PS1sXOhWFCsvocM5iHn8ayTVI5vNIr9koiNCU55qRXU8gLeg2tNKbcc1X3a2g9caip00Tuu9pCs70aTUhgcrbUlZdrjWF-Yl34rUEPcahxox9uzZBnfZy5t-pyH4TP6yqt094Tgzv8_MhhwASB37cy0ktJfVyAFIssXvj2AMaB1JQklmN03cM0gmjkUv7yL2GAIbb3L1-LPek1sSBay3PYuUALKNDRJo4zaxmzWjX7pOghlmm0Xnl1xpQE7UQGOZLEIlA2Z9erkhffw-M8cZ3hsZxArp1ov6sfIsEc5yZNcVPlLDCw&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNRM16_gPbuHxsvtd8s4ujCTg2VB_CMRMmnYB0ixbsDxE3UuevPlXaXGTezDENfKH14VViF-tM7AvZmMhKGxaL-rvpMLKgltCRMUvKcJOpc0YerIq6d2IZXMIzdElmFyEn4Zp5qm4XznbHg3247E51OAxvrOjKAsG5zNhjYY_m9Ye73tUQocEkgKxDY1k8GvHfJSZS0UedXnqf8aGc7Y8ZEu3MrnY1rC2OS48LIwC8S8rV7R6aLNf8wPMPKehC4rahV4inX6S6HpInM_7RWEshxdTtushP5Qmo9RTId1McuqH3cwR8Pd5mXKs32Cyzhavq27E0TpZGTgGxaAnS6jVg7ttesrTm5RGyFR7u2S6q1ABU8dJP6lfy_EJfkxLJRBOuMIc-cWtPrJln7920V87IVuRCJ4YPAfpREzh21OQkYhDMOB&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNTOSiF4_W__O-b9OjWh4bMr0_aT0eZ9U-YFMvIPXFVmS4YUJTY5a-beNMGVPrzCHOGNM1Ljqxe8cG949ytsEM7SBGXPKuJ5ZHw42FP5BwRFp3YxWNhgeFjoBRXFDB0UnRCd7s5wUiDXx0ODmY4_MUiq0l5niLzBpAKX8RUblCP7qehq-M5DkbrOqyIw2poBJPWMZ5pJ-pPwdXnPAbL60oPUbmxOLqQBosxjyEwtvgSZstivZvSP4sJiN9H_UzKkETkSKUfOLnQZtEZYqq4552SpRuNHfRT6SwVzEXDV87uNASv7zJlK3I0XY4QUTVOTnzM1kRHQZ2kbRssLI2AZgXx4TkpCS5gKLcbfPZVX7t8rqliAcegDNa7PlZkR2kw1iFBO9i4BfXIHuTQlPaO7CNH8VsD2p8f8K6zijoSJR7UOCKb2&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNQXX0bN7GvsDMHAuaDQhPTjwQc53gcv4kUoxyfa-DgXHI5fe-fwva5wiWwYURZxeaZRJRCWmUI-iccwDXOaC9KZmXEDzTJuwXiaqFuMPfwxuacUEJf_3NUsmIC9HVpcGhX2nwIZP0bZrM0UdtFPVIBgNI-hckZkpVxb3VnmZI7loamd6difTKVkA5FA0E8-biWbUPAt2xBcO7pcX6oi50U_OBOvG-jZGsiuZdSjX4myo-grGwTi670pLGJ5y1-Nb3OBQJIt8iWY38BtEbRh3eHhh2QC6oNrTaUhyExvT6_syvfE59RxVtXDaMXwnYsz2PoBJ4y0TZjzIZk3wh405mEXG5Paa9tIcvnfLiRb1QtyP-FunPxPmRCSZRKxU6lYqDPz_7fVUPdDUNaxle00dKBBkAB0hcWwHTZbnZk3NoW4T6z2&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNQhwNxS_BZEvVHoaVwgb-1b-OFdoMdIu2_lz9C2DL9g6FeG9kUizitQlWAaO4FRxFEvvBdImhYFa5E030aSmyybfnWGhqqbjebCFwS1nfxY6W7gHf_4bYpyvJXbvHHbTRyabs3J1ndrCro9xaDTPEwdWs2F145jZczw3oZ3_91zCPl6AGP_LoRXYgsDJbIs2x_QQ-58B2D5WDAXCWcVz8NB-Xeorzt0eZVm8z_ZyFrJSzU5oSz6c7Ti85SmgHK6pYYfJZEL6GzBMwMVIu6KEFEn1NiKJPFKjJgXP57akDd51fNPyFScLdwDS-ya0wCZvetcsxpjZ5vGGWwRIYxYxy7a2No9QHEemIc1gn94FW5LMJ9ft8KfpdTjJ1-2tWmp1zfW7P0PupuK9Olv_lEa88_82StIO8VvAkBHSy1Z6wI&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNSC3Gu6sbr9orHc0HR8jlCnd0paKunhxgddrblQVb3HwECCb-lIjn9MVjYhZN11Iq_FVP01IB55FI80Ip7EbjTzITd1AUi5teiZnhwNHUDfujECqcBWS95NlWcGOMnLUvJ0AYOev_xpj5DEnPkcwY3pqAFJnPN-DtD-x6bTlj4g1Ek5uVl2qTDKciMRAoKP2BgkbqX6JkH7N-D1Wg8iE7ZF8iPGlf1NOu7OZOyDii4E-BOaPP5KeOV6v12TQqCrWX7bob_qU5PZ6x4xYNHB_pg_aaAg9M6lcD4LChTU8iqrtAiIzaVFr6mrIloh9CeRvUtaix2Qn2fvThYwonBDtKSl-v4fyn554flyto6mZYu_5LmLfFMrKRu2v3QLp5sQSvXQ9MXFqYykKqq53Mz-su21g3JzXc2wDNKsucIZENM&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY"
+        ],
+        "reviews": [
+            "Good service",
+            "Very impressed. Both the garage owner provided good service, recommended good things, and provided very friendly service. Moreover, the mechanics were skilled and provided high-quality work, both in engine and suspension repairs. They had fairly modern tools and informed me of spare parts and costs every time. I highly recommend this garage.",
+            "BM car repair shop, good prices, good and polite service. Take the right time and be appropriate. Recommend a good car repair shop. Must be here: BM Bang Khae Service.",
+            "If it's a spare part from the center, the price is the same, but the service fee is cheaper than the center. The mechanics are very skilled. They fix the right spot. I go to this garage regularly and like the fact that the repairs are very fast.",
+            "The car repair shop has quality and excellent service.\nYou can contact us for practice."
+        ]
+    },
+    {
+        "name": "5. อู่รับซ่อมมาสด้า RT Auto Garage",
+        "address": "4 Soi Lat Pla Khao 8, ลาดพร้าว Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+        "rating": 4.7,
+        "location": {
+            "lat": 13.8343629,
+            "lng": 100.5934219
+        },
+        "url": "https://maps.google.com/?cid=17972927130394226610",
+        "opening_hours": [
+            "Monday: 9:00 AM – 6:00 PM",
+            "Tuesday: 9:00 AM – 6:00 PM",
+            "Wednesday: 9:00 AM – 6:00 PM",
+            "Thursday: 9:00 AM – 6:00 PM",
+            "Friday: 9:00 AM – 6:00 PM",
+            "Saturday: 9:00 AM – 6:00 PM",
+            "Sunday: Closed"
+        ],
+        "phone": "085 532 3023",
+        "website": "https://www.facebook.com/RTGarage8/",
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNQ0J2sB6pqNjiN1TwrMJQBErbbCbn9l-yGanOxHvww_cTSTNs-2YAmsYqw_xuzZzlvCkZ3xJAhmiOcqK4xmLoaQIYIIei4IJjDk0Wp3C7QWy3iVUaw1ZeZMEFA5Rmadr4o45YlpNtKA0bihvnodl0nvZZeOOqb9VaWxVqHVOsQElyxLkcWF-E0p2J5IJ8wkjJaxKwiZoEnpyt6jZzUSk0o65HRj09nQrVNKhsJkYKHRs2Vkqq8kE42Fgb2hq1Rg4uhvYYYnh4keVvENWMFXN2JqovTWFXJvvqKyCHgmYq2cPA&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNSVcLTJVozoZWBj77QgA1dxZBpIWI2a-mHfr0RAQsARCd0k-zkbC_d7PX02oWxHumOGt_bZSUekd8WpCuK6C2j90GyTsVf7ngZOYqHrrAiISd7LYoNMArPspCNFy4dIdgSw64f9ySGEdHJT8KmUAv7Uc3J4GoRTk9fYcpjTq_RSE0u3GWC9JURDQbyJdHrXeDPA3_UCWW6uHkFk76V86s1LSEm7lIOdhmfdi9ScQ2Fl5kYl5WJnoURgSo9tV_PxoTFfpiduFodOYKVBuOKGXo7xNz67HoldZklWiRczrgVzuw&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNRrqfuFlH5Rt1ZVjiax2CIebNxuyZAxttqgnQrFzWn1WnCvspQ4qdLSjcE47MrvLL3Oo-Gc77yxEhN1_y2fpL5DW8BezkLSfQ1xF0BafjKczjs6h8OmY8F6Es9sv8zu1pY2t3ZMSNenplMNJw1R0WURdfPcLAINt9q0ahvUIcdPz8Oa69YlM87j_1rxVTBkNOtmkPdflaK1LgazKwoECoKwbrWqKoJdDLxrsgSRW9zd8pe9YnqZBZqibmzA_sUCpV6ud4gPsEEv865CV88yO3K6-e-9eYhfXpHbbPzOBT5Oag&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNS6Hru0VnI_-JSOwgiq-GDlA2tgAja9WXbNjSaNQyMTtUyE1gTQ8zYVDHLh3IiCqnlZ3QYEWJLfT7BswImjhhJiMY9FQHSZ2kI3PE60a0GzEBATCtDdNaafOvE28AB3lU8kGa_NIlqMZ6g0MUryG0kTMlxE9WouqY9vtvVfGViEzTQ92J8i5j-j58xHbMTaLVVpV7LxcsnerLx94tFgVHWeVRI3dbEnJxXic39Qa6ltOqWMYZJvOPJ0XQUSHUFgmZ167B8yzpvWsXgafQoSEEXX1n2k85c1FgtsAq4Q9z2YRg&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNTCjuW9nN0k_t--GsNEStwOSon0g53wVVk7VJNVEXJ6-cY4_OS_3210kTHiiVWc3xmMZmwu8apVNI0e797fVonkBK4OLEp0YDMbO2w1IMYXf6zY4YMzf8zl07JsvsNrP3PZ_Ni0X79X_isFKxAvz-ANCfIzVAID54j6PTkzGxrOyET79eWD55OWhXpqMIK3GtcFibtgJ0YCZ04UN6dq4ckNJNEODTIQJ3Wuw_iGULpol69tovJdzg2moIAjz0BDlpRXeziF0aEaPhMK08BDVC7j4jdIsI828ZPWbr8gI7o6WsxdNy8NOwj_MK-exfWe1oqeWSiB8U7RLqCJmq0wiC5sci4nq4pjHNrxoNahfccSXb78SQZrGb0gUCE-nWuaCotq3xkL1sRlevOnnhDZwqKisKVpH1Qz44sSr8wKA5oD0FGsu4WYS1o4h7fOjnC8&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNT4ZDuJvxtPILD-baOCxQT9JxOZT9Q5zeqwRgGnREt4Bf3SXlXv7pB3RGZssExNjYevjT4FTeOUThMeJ_OCqrjfxqLfLT_-pYsOfGrIksvwS10iio0n0ezuifp6rFUtxyDS36Tg8iEPwzid4t0GNzmWW84k4j51ptEuVGap_QEnUJ95AvNGqnrJy5J9ZT4K1cBJaaZ1LV2734tR8vDj2gvCl5_90bBEUGHrdSLLgv8Y8zZQLm4ZgoZZCLPEkqIeJXwomdTPQ0Q93Vq7omSPWQ5WLIGqC9KVNbMkNOZaC1cyNQ&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNQ0oyUOPOb8yHwqWBl3LfCMhlD6dFJoADdCxbVpjT-O0hHCHf1Q_CspYoKa6ifTpLuT9DtYf7b9Ul73x5GXgwHkXswoUX446Tv21UWiQVgkr1Gv5fAyKHikFiuvXfhGXMp31k8DrE7strbOEqQ_lGXv0Pi7HHVTdVk07vvUV2O1MH2Sg1usI_8ZcHPPer0xtpUwq0WbK8xmvAHAgIO95PgDen4jZQm7tZUuTbSEuZeFTnlzR0uXc5C3vozDc3gjfhbeXjED7nnNM730xE9lp6FTTnQ5H0kycClNDnQr4Ni47Q&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNSc2AC2khanAuRIS-1uQucoqYb_y2jlFz17oifaYO97fSOfwbkbrv_weS2hb2YlVVYGQzZFrsz4LjlO0y_VtIBYrWsNZPoDu0fwpdlyrKPqPk0ZSN__k9yj7rfRa5ypvmzSmjn9i0BS8powtCAS0DOhLWRZ4EXdxZZ9tU56EhkwfLYhLdaJG568clC2pcGZ5L-qpkZerZWPKIUikJ0XThIx4cv-SRz951rIaEl3pHpzx5NcVcDtm2wcpA3oBGC79k2QV7yJPUJ8L5FDrqtNzN0mcnAJh9j3-2jMKxNDgiLZig&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNQvOcS1FVsh69N4FdSYLlvHJujLH3UK9OFzpblY2I7B5bYzge4opyOHn-bcOvXmVoWp_EcefXQr5LwiazwH_fbXaVZ8DSr7TWYT9GXeme3Cic_BpsWn74EdEtiH9A4cC5X6S4pX1iiWzh67UHgJfMdZAvepDBo8Ta75Z8j8QZbhQSwZxrlZ5SD_h3jkisO27FQSV7kBLT2ns_zUewCXnne4h1t_UUZ_xsjEkXELOG9zkJ7jZe8wmnrKuRMdgCsS7uyhk8tNoIRsjmJbXrvza8jQmiPbFAsTQSrPQO4k_I1B9g&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNRYmbeI_DLFCOtrUt3ajTAwB9bwhXuTHl4b7zry2XxCSGy5QxKXBFngD0TUTACb4q258kPKC8OYW5PwPaY3ThzXPsfXOxey0CXISlXN-fOOX4z0zy9WGCRnf48lmrNvTXevwijTPbnpltGiKCcdf8jAd1CWY6thBIOX8Vog0D4l8dHYAyvzZSmk4xdDTChUe0K2IbAckHLckm9Mbn0jSY_5QUx7retrNhl5Ii17nw5HyRYmTM0bgxZdAex2fvJRVytY_2MzH8pEOAQFd7VV3Y6_mqY4jWwmfudrcmvbcGVUmA&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY"
+        ],
+        "reviews": [
+            "The best expert in Mazda service.",
+            "Good services",
+            "Good advice, Mazda line is really complete. The customer service room is clean, there are water and snacks to eat. Thank you very much. Good Service for Mazda.",
+            "Very good service. There is a waiting room with cool air conditioning. Today I brought my car in to ask about the radiator fan. The mechanic team gave good advice and were friendly.",
+            "The other day, I took my white CX5 in for repairs, solving the problem right on the spot. The price is not expensive. Yesterday I took the BT50 PRO to check the engine light and the yellow gear showing. There is no charge either."
+        ]
+    },
+    {
+        "name": "6. อู่ซ่อมรถยนต์ กฤษดา เซอร์วิส",
+        "address": "14 51 Thanon Sukhonthasawat, Khwaeng Lat Phrao, Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+        "rating": 5,
+        "location": {
+            "lat": 13.824506,
+            "lng": 100.613387
+        },
+        "url": "https://maps.google.com/?cid=1729508310145209320",
+        "opening_hours": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ],
+        "phone": "081 936 8923",
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNT4q7OVM0uiZM5ImpuqwOtgij3GDg5yVcUAO7nysohP60sqvKw7GRRFzdW-qDfbzr07a32Vf9lkEEBl_0SeUNQH4yr1snoTzE_pgPkPLUYjphwqQEwHj4jwg3VcDyTvBbRu2jKD25SrLtfuYZP1nYnDA9XbSO-sBB_C5Qu9xmSoqgw9J1Re3__kXGP5wP1z8_VGCFkPNcVliIwsFQBJvPtUL4krT2KLeLxhKAlN7n4sooxwGkDIt5_-Fuaiy5bvokfm7B4-wk6ntDDNmSAy_iSy6E7sKQSaMysj76wM16ghONtyL3KdYoLQQHR58-sdaZM9GjThzsvA9L2jfUfdtP9Qcuz_9o0qFi7GF8jPG7cfKkCLv_KKA1w5UIEEjbLvyCYZNaWW7J6TvVeBFPiSKMvB9iSouanwBsAUaFw5RLYEaQ&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNSIQJdUW8a0Tk0RJcS6Hm-ii91uf9XK0Pe5MNn289tDXsaxXYQ6Uw9akC4VYeYwnLj-HTGHfeH7cOV_FwxRqoegtHh7YWurnWLM-WAIgzBzwqNU111nBu9YrMsfGz1n06qe4PJud6_5O-r-YCwv5A3lfs49e0LeqNZPlKoM9HniV-1R_mXf6b7wd-oGRV5ZX-oPCMMR9PxkPRLMbA3sHlbqz-8OEaaxmXtXXzXzoGZL5HGmQTvK4A-B9GZWuQkDZpZZjXR58UQEkOTA0-sDBVww7vUcbsb_Tfx32oCX7W3-VB261l3o34S2tiGtSza3VILzum4pC5N2sYFHlvk7Q48Kwt8kF_Td-khdKrOp5M7x4q_C7cVQFBo1KKM9tyA5n-q3wLQT7cYjWWWFWqhO0Cx4N4Nw5vArrbtPtnMHTH2IWw&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNSc-pV3WKwrgmWI18vdPsVEGsdlOeAM0gqBqikdznRabOborjUFBn6LSulSfSACpMaPF5Oa3ldf_NAiGYIW7e_j-0P0iMFMn1NzdC6sjKP_jVgq2egURcRdVj6rMx4TcIq_2oopp1rphYk82Wf8lxAEGvbYDhDOiaUv-b2vzpQSdYdCcsVrVWm-296vbO4wUSKwanMTlHkVwSm9yix9E1s2Rb3FJqHQVZN1_y5A3xcrIz7XSmMDaRyTgx5BKMSnf5H-h1WRmcWJAmqBOnea-OuasmsI5YeZ8dSbsRE3zu4ZqgWyHBjt44PMEDMjcywHOGJzs3zI5Kup8qwRKqLb1poTT_HjPvTIpA0KGldzAzbnX819pg9wbkl9dlQY-6Pwa98kNHLD-LMegzH7AtOrYCDjsYBwd4Vnqd_1oK_FXBpzRQ&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNR6i7IvgbOTpySCSj15VVo75Gk7dYNUcWsrXesXNqdwk1ZPIjs49eYbljuCRKq_d4o0cUcU2D9mBPgrB5jPpchr_23hzRryWmyT8Vj1QOJ3FjRreHYLar-cEl9NJfA_MCfMe8f1os8Zk66TGTlYiQHtwnaP4ig7OJXi0pCCSnPBbL0iEoBcIwfmQcoL9h4R5nopu9E3bQgFcJgOnjc4t1mVDIAKZOmcxUb-BiODm9-tQZby7e-NRrxED8Qi9yO9KvFQ27KgNe8bn4ntea-EmVFjEjkFmmhzxRN0EiNcWi4VBGS7rnAw4mUtRloy_XpLf-KDE-3ZPzUTmpjHgIISL22brISnj8CR3jXVwVy6WXm-lS2irZedaSOMVnN61uERm2HVx3JdqoIV0kcpvdjnP7U28mN2JVxljJvhDnBJ-ZWEOg&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY"
+        ],
+        "reviews": [
+            "If I didn't have a technician here at that time, it would probably be bad. I don't know what to do. Thank you very much for helping me to provide service to fix the basic problem even though it looked a bit chaotic.😂",
+            "Good service, gives clear answers, advises, clearly explains car problems that occur. Recommended 😊☺️",
+            "Thank you very much for coming to jump start my car battery at almost 9 pm (Phothalai, Soi Yothin Phatthana 3). It was fast, the price was not expensive, and you did not take advantage of the customer. I would like to tell others.",
+            "Very good service, attentive to customers, checking for orderliness.\nAffordable price, good quality",
+            "Change the throttle body"
+        ]
+    },
+    {
+        "name": "7. Chang Yai Garage",
+        "address": "336/2 Rama IX Rd, Khwaeng Bang Kapi, Khet Huai Khwang, Krung Thep Maha Nakhon 10310, Thailand",
+        "rating": 4.6,
+        "location": {
+            "lat": 13.75394,
+            "lng": 100.583217
+        },
+        "url": "https://maps.google.com/?cid=10759427571321167840",
+        "opening_hours": [
+            "Monday: 9:00 AM – 5:30 PM",
+            "Tuesday: 9:00 AM – 5:30 PM",
+            "Wednesday: 9:00 AM – 5:30 PM",
+            "Thursday: 9:00 AM – 5:30 PM",
+            "Friday: 9:00 AM – 5:30 PM",
+            "Saturday: 9:00 AM – 5:30 PM",
+            "Sunday: Closed"
+        ],
+        "phone": "062 328 0888",
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNQtetSaTqcpLN-fWvaX5n5cMVhgE0ajRy-xEOwkIEIK63_focK7NEo5bGH7v444Pb9iwZA7Gl5-ABN0afu85IUi-T3WNTY4YuBcoKRLvJTmEcRFqUH-xTnALnonlc-39o_5LycOE2fZiUEL9aqFWqYUYHZ9MaBYjWthRSIVIafQynzuj6kwbAq99yATtrC5sAuF9WZHf5xcPOFoPApYCinfVvMi7N5aXimSuyAkuuQRfyJ8PpX5zPjgvczwowgnC16GqQqEdFvo8PSirdNejD0BLhMfWmoydafS8tV4plCqKFiWzsZafZSi9uRhh321FHJuF19hoSfsnNIcgmSshz5KfQ5_Sq64h6q8ikuboy_4toAzn52nmG-tq4ZVSuVFsS0YIUf720lh28ZPpNaD7Uk9uYoT2t7CD6qDwdZDo6U&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNTOu_SVOgNdtvqvPcWTJngQnBPAFO7RiEwweVBa8kQn18FVrXZM9JG7PKDBgvozs_uvWPdCDhC6xzXcoiguPSDOu5EHoRZnbAxagnQhs8sQZRDQmJlzuB2NF4VokCWfdspGd0MOiMRiumOJiWoz3390cbkahfNYPbpTVmknUh20c_E7Gn2ePitUJwAET1MaZeqIUGUw8UG1vJ9eFcJBnkAJ-hRInIfhTtyCTc9rypLB0xE5gft2G2nYSABfwMiLk1fUPSTLOtZCTk_O5jPzDmJV6x2-XOy8d-cbYEtIu_YLzLjV6RZ1UgACgzODFXw_ht23Un2sXfo8APVwSPwDdxLE3WvCtqib3ihGk0GMDtsGjAPG8DrEeMPn7lZwGbP_JzQX_QHOdaE8RlcsoaVA6CsflgPREzi2Gxub8-oAjv4&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNQKkI98hY1d3DcR-lYSIhjzh4EK9VV3iHfXAJtuNDOXp7du4a8WbINqNE1MGvs-4yC_G2F3rJJb-BGOpfB0Vdajv8uGbFJHeY_4pKI1Hp7Sv-90ZHz5rrsk6VAGZX_er56AyBkSZ69d806MU7oOmfdLo2FHvtngpd3P0-FWjG0-iJc2_pZoXB6Oa4txP0h7b1bnDf_mfr4KNszvhA41QXSQUVzfkCHFLiMVP8G5mYjyridcCviT-jFfq50yWiR0n4x8ymve-SMqkZj1Wb-Jx7ZPYvfcUhs2kopUT4X_pQW2QCWRKaGNTCSElEIkL3nxj4QHFhzdthQLWqNGfb9NtW0_dXmzWGnZ7QtLF8j7sjcjSzsc74eQQKx1Kw30FuvTKyc1uehqXF1OgMffCTNR6kLM1J_yvUY4LxyoEtYITp1MDA&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNTrdRw_OSyl62d_z23yXcMr-Q8M6Lfp41Zeynq-DpwzW8t5235P59uODMKqFsk1P_rk_K8_nZA9kZ043Exvguvm1KEf15QI7QkQXGRm0-oJRS6I11x_yLlpRFGmdydzjXZJiddHkKdIfetx9U9Xgw0Sye-rnlQx6tX-Acz94vJfXrB0Y7HYKBgzvEDVopz8nqtqKBQhB2hTMo-DnUgszNvnbhh0KUFCixPXmdwMBeYhmmLJUhiM_zL-TuNR_VMj4BseW1yyTph1zQ8s9FWlgCwvG3Ln_uQkN3L-63M8GM1uWWX-L0Ethxb4W1aprKy9GKJG0M7lR-n_akqFNNTO9LJ7JHFkwY9YNNCRS8bv0QORj3dH3yOULJ2XE8kHwTJwlU1Pwi90jr3zaJoNKwEdxVbyZe8sqOFiIDpQBO-xgNIwPx8h&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNSa5nLpPuZ65D87hrrh6BuK4Th9tVG5F2Uby730B6q0IvjabCH4cUI0MZAWuJ602YurRP60lGp-qac_qj4SR8j0jk9fKsyeS1iHI79pO1feOQ3n5RRcyV0ntQMqmi3tsLEz-HDlq9Po2mnl-2T84jRTRySldiyvNIg-8Ns5TU-vr2aJVxB1t_6w-AQZgScbURbq8Bsla1SSQkBqkDTDt7zfV4P0ES8J6aL2GMC-4VgvDiEsPNEQmZ4lirLfwSBzmgdPdb82tlnKoFHxqiKA_WonEae4JgBppEHk8Tsp0ZKRycDHSlVqCgOjQcQQSzvEtV8p_Tv8GKSrz4IZ-3FA7ozC3VxiebHUPVwRFRAeIXl1np9XCAfCdxFnRT3VyV-yvvJVIGqZ4RTN-CVwvPTp-FoEKABM-wQVLU-SDoLEgIZOZo4j&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNQ9kKmDH4xdnclwlweFq5V6cAZGYctvJUpNImv7Bofe9jesOanMvi-wfIsFgph5gh_VyWTrQu00bSBzhLa_LBDrePlGfQXaaRKjRphNtuofXJM0CLKToWdtLXDFtV0Nyqnq73mrAH8EV7e5ZdwZOJpADMk2I5OTxg_LThO6SKmW8A2yP2XnUgO_OPESSy25fT3L0GS0k6_i5q-8WsyvCVnLsx5Eek4eWYvbY9M2g6t1vjaWrp0s2a6qnFWFIVTyqEDzQMd6IXw2pxQINQ97i5bKy28UkHSp4q6nvdDT5hLn9tzdZLUaZVpr-2ThYFFct7f5-Pxrlgvn2o2QDD-RKNeA5nt8GxJ_GiPiFg3AcEgZNSScHT0toOGXRtTKPo4PBNDdsEY77N1uhFaz_FlnBDO5B4i3_tpyPOBUYDVvAJAldJlL&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNQQbchC0V3c0M3lYCCMIr07FtEJVlwtiabkXNIC-CoU1oMAsMrynhpxkCzqZdiVk49lhAT_C50AtZHOWaq3-guiNnHTrDdbPJPN-NSwKZdin7Ac7_S-PFN3fYsJt_uvuusUyEKQeC06vDhgAWjII8YY7d5M_cebBobPuAbdF93dJ_HO8Y1Gw_Hy90IVp3lHqxpxOiIjLL-Rq39jQ4257oaRlPC-yaqYcV0oPUK1ATJutpAfWQ4oYkupoy05IVtyXwT5dCOU4X1ZL8hH1JK3_vHhTPAS9VmfHfBN2haeoaMCZi0fbGN_5V0mcplSDV_szJbtT6TszmEeM2MoJFcMJCbpuYcBtd5WGjETlThN_zH6Cy_Nia-7v6m90FQXxVhLGxISR5jGqzcgARCipW7BWd9XNwDmHDil6bL_iy8tHqW-SZXI&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNTaZUNaHGRkHxMvB4JqrkNstuQy3w1Utn5-271RTqYM0IGN9s7A7BjM_cd7xNQTQjfekrn0rJMzKsISko4O5cPKl41lUDO_OC0lT5vs5OJTvF15UMgwJGOLL2AU8ixSd831uEWHzEUsYwgO6-xSvS9M3nWhMuaaK64jFpDl1RLT35S52IvnawV4j5k42wadDNuEXMxSyrBLFVYnZzFeMLoO9BoVdLM5OLRwmkTAsNctvb5qx_wlp5Sq4rtAhcJakKmWS1UWNMEAmccSzToA4TNUROfIo7tNID1StJwrE47IWGWLrSOxN8jmiK_xvXLwTK3varGxfaaXxyQXZDA6bqDYQpMIPUlYvEOvvmrXQbf8yO7R_veGka7tmHXl53swop27oovksSF2BwCSdAUEi64xuGIait9IL5c4agQjSTXsK38x&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNQALDvitiFAxOyhPnWRyxBKL8KPzLD7YPY8RCcVLsHUxfVDo0rI4CT2cKi_QGssnn0UNeYqwU79wzqaeumcvsKsSoCfCvDHbRulKzRHl-ZUHdb0WV6Y3KnF0zt4Hz21k8PModnES2ADlnlYVmGk_DXHKk22-0D5TZ4THmSP1IZDGYF4RzN6K6T-7VON70U_SSIxXC2vU4MHWgGlX6ApEh1vFl-FxV9X0Vrobog9vgdTTD00_yZA7XOimKZPG32j6BQGf8LwA5Zh7RnpRt-SbMz8YZL2xGfJu_o2KyZXAVtFfvWRv_iwVFi_oyWE1OVWYAtP03Sor1H7EgM1UX4jbwbSlyjTn3WUnK4-1cThtEMSYvoZ7W8vUxV8ENoKQ-sIgFysU6d75hN-evm6w3DydUmRFLa9vi5Oq3p9PJD5SOrTNsHL&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNQ9fCOX9iyVWdEBXW4USka04MDYXx3ibhGY_4eq_JjZHNnQXwtDDYGqvC7nQaq-CDaXvLeAtzZmw5lC0836JfnVElYRHobFVOwqlHswyPrtH9WwqgWASjI18wPuoNOQUTC3Ztsk8FXGGT9r6mlrbN7vF44yW4rfkEed2KcXwmfft4pmpg8fZ_crfihvXpqB3YqTwOFPLbNHyjYhAjfsJNH_l01djKemDv0GO4qlaCxBAT-RzwDFpWvNmI0HQWOFf49gKVDl3O8lgGzQG7tOn9SXk-blZDcwCeMv2y7hxicZ1-hlpdMUpF5-i3NxRMZLJJDkm8Zc3lXPngsnHEVcHR60BJeGk5WrPz039xRBZqUcM7fReCNIuE93i3atq3VS_t2sRPfJW9XZt2wDRJySP5ETihpusOjAA9j3XH2tZI-Hbw&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY"
+        ],
+        "reviews": [
+            "Took the car to change the rear brake pads. But the mechanic wasn't careful and the screwdriver hit the brake cylinder causing a leak (I saw it myself and the mechanic didn't inform me), wasting more money.",
+            "Good advice, clear explanation, reasonable price.",
+            "Good service if you bring your own parts. It will be quick because you don't have to wait to order spare parts. Come use the regular service. Because it's close to work",
+            "Bring the car in to have the brake pads looked at. The technician checked carefully and there were no problems. and changed grade A engine oil to be confident in its quality And the skill of the technician. The service is very good. I give 10 stars. The price is reasonable. I'm very impressed.",
+            "Good repair, inexpensive price, uses genuine parts, changes the axle cover rubber, repairs the power steering set. The technician reported the problem. Straightforward."
+        ]
+    },
+    {
+        "name": "8. อู่ขวัญแบงค์บางปะอินช็อป",
+        "address": "347, Tambon Wat Yom, Amphoe Bang Pa-in, Chang Wat Phra Nakhon Si Ayutthaya 13160, Thailand",
+        "rating": 5,
+        "location": {
+            "lat": 14.2443191,
+            "lng": 100.536565
+        },
+        "url": "https://maps.google.com/?cid=11188661335800793607",
+        "opening_hours": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ],
+        "phone": "092 571 1788",
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNTDToNlVz5SANHYcVudBCUNVBQ9T2k0s1a_5wJ-AbyhQ_OU5iBtA4qaUN4mrIohPRGFneemhQDtzYumv7xM5CYxsstL_b11dyG8sLOXG--AK95GEnZbfN-ug7Bd5SYOi1vlXH1mrDh3q7-U80jgIU1sX17W0ZUz6VV08g_Ge1e9pIDHL8pXIrGen9a4WkKrWvv1dd-FXFeTVVf2SA386q9EfzwoAvEyALgKRnRAl0fCB2MBxdwJFTyjnBPrnDsZUOOkWRbGNxn9lYnoO4HijDkM2XV33OCi5l9qNBzIH2xcGA&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY"
+        ],
+        "reviews": []
+    },
+    {
+        "name": "9. FIXMAN Auto Service สาขากาญจนาภิเษก",
+        "address": "32 32 Kanchanaphisek Rd, Khwaeng Bang Ramat, Khet Taling Chan, Krung Thep Maha Nakhon 10170, Thailand",
+        "rating": 4.8,
+        "location": {
+            "lat": 13.7638758,
+            "lng": 100.4085124
+        },
+        "url": "https://maps.google.com/?cid=13672851189544011541",
+        "opening_hours": [
+            "Monday: 9:00 AM – 6:00 PM",
+            "Tuesday: 9:00 AM – 6:00 PM",
+            "Wednesday: 9:00 AM – 6:00 PM",
+            "Thursday: 9:00 AM – 6:00 PM",
+            "Friday: 9:00 AM – 6:00 PM",
+            "Saturday: 9:00 AM – 6:00 PM",
+            "Sunday: Closed"
+        ],
+        "phone": "02 059 4494",
+        "website": "https://linktr.ee/fixman.kanchanaphisek",
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNSTl2t-75MTykJim4--b1R2-ICe0Gidk1194c_S80Ex-3YLWYNbP_shPWdzkOtpOr9Ai2L3qCSiLt7wSMsYTlIOZuhRCIbP1LH1gxgYlynYuZZdYhYpOND6LmKczPtcZce692tXgVI7OIuWuOllKd5X0YoMID7fvLsAGA12TI_qshVht2uGhUmE4iWPHMqHDEnTgtY-P6QSQhVqT9shhaogSV-ZjcjunlFLjnJLSGTA_8TAhfXTUl42xafnsl2lIFyfvmyJ3J5883S0G8xcQmFD0eFCaElT4Spmu0r9Svhj6A&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNSW0l5V_XLJsgFnpxC4Ahs4AxrYKAw9_bmjcPbZzkBNLGhaVGKSMLevNdNw6kYaEkiDGV-eaEjcdqCEJ8SyMbIrkJbre3RhfacD1YJXavZKGTOtEYHws6ufC0RFsJrw3IW8yrG5DfVVJhMlaAXvx_JKA3Yu0SJgaJ_BOIEHyTzQG3p9Yr55j7BIU4yOJOlxmD4H8qj0-FEQhGpKbr6Xkv4UAk4uz8wAAc-1mZiIWXBtvnQPEkUBIn2KnKwnq5kZIxQQP054MJDCf0UVDA73BbdNn8BxlgLAhObn0KoEJN-0Jw&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNQXVMZ-NjzRWs7Xma2BIb90H7ae3TQcuaNLLc83U00Cb-L2ddnaMxN5oyQV8p9qkstmr6NtE0sWyP8XCCnGxpcTfvc9PAM67lzjWIdzUG7VlVkYeURpB18_bbzq9P0psXyjGP0UAYjDO4A7BSpYsAcNPPTXQZQSd7DTPddiHXURdTeBCyyYVvDbQ2lrxq4GPnrSIsu_3_zT9nCmNBCQextDOjxDhsZVb8qWedEX1nGRul31ElNz-WpUJ1c-5W9cYAgx1vuR-CrINlfc1lYXMUbthui62MVZx8EpqlfEVvAgVA&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNTlOSEMfn0kJCO8TmWnhE4cUJ-LpqEPF3it4vjlJBpQS1MGTgOd6HSkGddQgat-1iyLFLXsmCFcbp4902DiCiRwZwuLOWBc4R0iZby7nYCpmYuaxTE5qWDPsJJGRCUlZlaeXRlm_qniWTVXFdEkjZPwW9nb8aDF5mXDG9rLmF_5f9kEDjMr5CoaUg4ihYUWcEa9GXyVRNEeHQxonS5pEmjbVAWCHvB5ULEVdhtPsHX_YWMAaA9v0D_Nt-gSrjWv3GSKhh7OTxbeWod-7Jj30TGW5u8MXSVy3t80IrbV9RrOtA&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNQqxw5w1TZB3xa1fNhQXzMZ0J_I5EP73leZvVVqwzhDplLD5092Iy2ld34k_dIl76IvwD8jmCyqMPA83ltHdCZ_WXmwHLJAwl5K-Zx0hq45FI_BuwHbpw4kHv4PxlQTv4d3It6dEhoL6AWju4sw347jwSHz-NmQQqvrfAg06QvMTcU9qBcBw5O39KofgETXtNtayH3XcQuIKQ6_RSeqs2fBPuTO-7CC47SHr8JRxIH2NgW3iY1xHlUpTZTGuDynxf6edWbYvTIWwP2wOoxwthAED0rwSgdbZ4KlPmVAdHdEEg&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNRvTIqc274biARKq1H36VnDoHMwlnYUjbLyaslfE95ywaPNRwMcIUNyhLWzYkcRcQfT3zkVl6ntthP4lzIbIi-ULfy2HvRBM6lxU3xwEUVSXzYgtY2ViuOfy33YkmAr5sUHxm_kNhmklkCSCWRBJEjqN97dKE0XcykfHxi5Pts8yg-AaxgPeKboAScW-ggr7e2uBRycktoK-iQDPMC_Jr6gtfIvoS4noyvm-3EahFBp1dQTG1yvB6usBUixwLyA50S-Xf_NZtLrn2dSVLhcKr5meDHSq_nJzb-kUAG3n_da3g&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNQK4CBjMJ3cstOXq_036AFAEcax5ES3SYm-Ewca36XBx39rG55nchQS-vcI3S2UG9h_w-vW4UbIpSXM2p_erQR-gLED74jNj-HOaC7_mmaMvQAVOJb6NeNGd6ZxJp-MdohmF8h-NF24ZSV2xC3aqlAaRP8UnsYSir8-pyWErkkJdxVX3sGsJc_rOyR1HYF6WoicKLd3fAHn3xJkw26WKywBZorwp13mtIemKY4kAYZl0UFMH-3eWGoOFBRg2-jY8La_w1kffZkXPvyGhuwPa0xImixj49eGx-cHleGhW8joqg&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNR-R1mVZ4atjp4aeEsiZdxxv042teXc-SPdaLxRAZlkPu2I9vQJ6cVGIBC68inNmDrGybWYXLu9NHhmEOZo-C2c9GQ-aFnFYRlXGvDK5ZXFr-f7uxACXF1DZy7xScUVlqFqIao0wXIsXebMJHVQeoZvmdbqqro4qvLEwlD8737t_MAxfchXYm2pFWe6CBuOALWla_Be2WgiGS_yAYuDRwMY-gEweuA5agEpSUNr7qpKJzoiAZYMAT0rzcW6crIByi1mzrKdFAZ7u2yWQIh7wh5o3RCE02YgfIFlv8wM8PiwSA&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNTveHdGoFEUQ2BALQvx1ecXm-kZTEwp1GWeWVj0ly5yAtgJH6S51k3fxi8O-HXr7GunA0QruR4267GVXO2U64wPs7nHOVv6q8T-GcmU9x8hAOTstTC7zoE8uzhIDGLGFPvbV-uceIbYYCOVjURH6tkgk4VMPlMtq6JarqwZyvSqzdR296nRRz5OXnRfhdiNOlJqh0zcZq1sGs8m9TvsTP0wYI43YwgZpINPTT0L3HWY4z75cy6TvNwdxLbcPJy52fDn4Zv1yFg3XBNQYiwGbrCHcQbj6n48GSxV_cjh5CeLpg&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNQgAGkxHWkmk6Ncr72yx7_RUJTugh853mn3rvDR3pvlUVHiqo76KpCO6rrPOCSC8rj094hHwRGIYoUedE0xN6bCncLJSRr8mgvb0rjwlPQqrX34koaYY-pmkVcVx-PSyt-_vl_YvgwXhGxQi0wMnkJFRtERAUZ5OIchW8OVN7CT8l4e8vakEWErgfaDzmMNbETckoNQ31guQVpezDPu_KMf22bzNeJ3Pn4SBzL727D5dB6rbEiEXSAUD4sSL75DyQVPsMHUtSXnEqkP0Oz8S3lr4CqCGqxJDrr7zCcIrmBHTg&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY"
+        ],
+        "reviews": [
+            "Dear Fixman Auto Service,\n\nI am writing to express my satisfaction with the service I received from your company. I had a problem with my car and took it to your shop. The mechanics were very friendly and helpful, and they were able to fix my car quickly and efficiently. I was very pleased with the service I received, would also like to confirm that i will be bringing my car back for future services, and I will be recommending you to my friends and family.\n\nThank you again for the excellent service",
+            "Been here few times. Great services and staff. Reasonable price.",
+            "Good sevices and reasonable price.",
+            "They are not true to their words. Im disappointed as a customer with warranty with them",
+            "This is very bad office\nThe cheating people"
+        ]
+    },
+    {
+        "name": "10. นวลจันทร์การช่าง",
+        "address": "115/54 ซอยรามอินทรา40 ถนนรามอินทรา แขวงคลองกุ่ม Khwaeng Nuanchan, Khet Bueng Kum, Krung Thep Maha Nakhon 10230, Thailand",
+        "rating": 4.5,
+        "location": {
+            "lat": 13.8430705,
+            "lng": 100.6427328
+        },
+        "url": "https://maps.google.com/?cid=13682837068728617428",
+        "opening_hours": [
+            "Monday: 8:00 AM – 6:00 PM",
+            "Tuesday: 8:00 AM – 6:00 PM",
+            "Wednesday: 8:00 AM – 6:00 PM",
+            "Thursday: 8:00 AM – 6:00 PM",
+            "Friday: 8:00 AM – 6:00 PM",
+            "Saturday: 8:00 AM – 6:00 PM",
+            "Sunday: 8:00 AM – 6:00 PM"
+        ],
+        "phone": "02 944 0848",
+        "website": "https://www.facebook.com/profile.php?id=100057194749981&mibextid=ZbWKwL",
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNR0-xbb4QU_Q06yLGhAcfRktAT_0gIKPqn7Ajxbe9vfrdjj3MLV6UiMfWs8-XweEmcHzTnCCRaBTucF1ucgVK_r738wfgZWB4c0fSe9zYVDTqGCKcvCT7A-iIGdNmlxvl2KRhqPWbr__HqVKf7nvMdl1KoATRUcDH47BbC2Uua7Gc-y2tDUkSwI2i-2ar-9IrQgrB3__3AcIvPJzPgVT3uSiY0I_maHt9oYTEm-v_qwX_REtww8QF8vriQAqfhEizce1t6XF7svkijuT-7QC2Q0X1sJaJHY3tjRWZRq6nD5gHBG5v97dv6WR-J_Q1HIkm9y9vW0Ukutw34gnvH6gAxLyXWCzrAheyTqT1JgRYFAWhpJa-3CtanK4G7phAm-YthShcsJ5Y3RSoNe6dijatTOSSAmTqhZf8M8qSD6pSJJ_x0&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNSgjVuQR5MxJ6hLMREL_zJ-Otv2QOGb4bexX8G_PoKlDe64jdfCUMSlG-lTFeWgfe3lbjpuEOG9BFGdceburT6jjPEg4IJ-DClS33UecXwCERSmYZxtIwVh0UitMssqYgBGt8P0J3EDY__Pv3li-YYzOx4Q-opksaPY6P_7QHTObGLHyE-CLdCHhYqfE0rStUQQy2LRlCn3NZwkDfaUp7BYkjgnM00G8wK7Bp058kaq4OS5QXPgr_Nl2L3Ik6geYtgfczEQQtrqkVedkOOGVDRjM7JpLy_0Go9qcwGuhlFJ6C61aOCXC5AoebBz5Es1PewDP5w2XKGlMyhKLgyg43PGsDmTWy0kDqTqk3eGfHI3TIEHs_87dDyLALBlG5dcAABCOqfsFlLzUWlTfsbWJIHS1mfDd-O_OG3dRSboE8Q&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNT_ySbWWp2vB5lY9LGV7v8cdsxriLTmthH_o0RrrBUdUjX7w_c8BipZOS6EplN_IrHBh85oYiXt543mF2F_brHup-pzRYgVeNGOal5QkluMzyLdzO1nwB8iNBqFXahWOVP4TN8WjUFLzoY-wQ-fVFSYNgRL94UhYer7l9Je_ZmfnXRhyHkxHTe6fIrgPqxYWwKvmpyaGi1rSCRt-oSXrZjvYfJCg4tTpxt8-rIHtpcU-1y-EcFvonuWLh6f48sMvcVsNy-PlWJ0WqyBG11rvCuC5VpMQCTLG71_mwhT62t3XVIJ7oIpsJzJgmg-vrzH8nBqEb8P4WE6Q1vpEmSPaIxmkL6NZ1x7AqersP7yYb0cmnoCtVS-PZOQAHpl50UBonwJY0s6Kk_eCxpAFI_p0VfQWlXKl4ESgli19ojlt6gC_aQC&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNTw4Wdh8VldatiyDGbxgJ-7JoV_Jn3dyYOKPmrx5kvUB-XQFet_Y8RgJ5NxbYcxemaaaJ5BSkn2o-jdSOfUeSa4cpqp6wLk5gDZLOJkFJqNY-mCcBKzEJ4usI1Q9Y0jThK0OTS1Nkw2vxYayFPhR_nR83XQKmrrXmRdcN3LghiGotvYvLvYpDekRvPRHNxGAdmWaM_C6ybnWxBOuUYiNbZolfCSdvQABnOQckuCC6Oi7lALXKkVhMlNLwncVvWMHDeLEfkioPhJrcDG3miPmkiE6i-DA2_c3R1abKpeYOl2CG5gAqvdaD3Jj0DtqTM_BFO-mpwFq3B8Obyje3FbTUslMW_5_93ZSJS8ScUblXhVopM3inRv76hQvAILi5YhngBqtXefda3zWgRg8u1K39xuUEQEoIuCMZMrg1bll-uO9A&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNTPuof7vDnPtDazEPG4vLC5kF-Q_nPmq_RfBkgR0I3jiUJGzpixrjuf4AyHS3itj2x86LWtb_jG5MBjqwCR-xUzZXbk-UTGx-C227lIBRkzHBgdxgRehiytAKZaH9Usy98sTDVgDr-Soetem4LLTUkDJgpMkYczJ6Z9tv7DSZnf1BwPb9tWmOQkkvPnMUMOojrXk0ITF3ATSsCPu03DgXcWZsYGtcULSKPNfZrSbWzpeEmvqZvosV8amh5U9npzlaXhI-FpnPaYFelu2sK8ZwSGpzzBtceZ1CDu9NLwwTO5-LDv0d-P2ikoRuMQulyOr7WMKTcJEJtISIoFwgdJplHiJguc7rv1ZwhCtcLA37ryAnPdrQPRA-BZB3hAbR23aWn9XSVyG3XU0XFe2REv9PEP2oraYupyAWM6V5UMgTI&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNSKvvtF9nSuNgT8lDdrOkjCDrMzJb6pmSO1wiVsrtPJTLZkT7tN4wFAgrYFsCfbr23f19gL0XrFXJfspqptq-bfHsn9uzEA9JZAlO7cuK3vlJQ0vYzvIxX4C_dwAPnn7jlHKLB0rLujDJFItVJwE9IeUANRgoJpRvowg56mbxupKJmjveNKuzNazuUh98b5REBIPFr73rEI24atDOVbJ9H9-PR9E4nKaA2GBIV1yNARq6uSQBUKEciRkwjo5I9yrNjIRZnOdxCuO2E8m1vpS1xfNupy4E4iYMfk4rnhS_cwgQdkO6IYJHh4E7C8ISI9FU_1irlvww-ywZtqih9eWXm9gTulSztd5Mgbf84hW1hpBhlkbuqp2c22-ZPMun8ueOHVDm9VhK40h8oW0MEJqkBy3FSgs66p_o_LZLz3LScS5Q&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNSFMcWmdaUaI7WWepxksGJ1WQzXyzncq5RzYWeyf6RRHDZPwnY0-L-uiwCoHhr1n1LkbJaDddJQm4dtsEvtqiPVE7qNx3jRlnigQY_LmaKeYgicXDvRLG_jWxOWSinUCvwSkJokl0sgRvAznh0nVJoZ-AbNK_CNFbIdJfSR01qQD9nuA9V8SUFYWHNhSgmMcAwpgIbleMupPRoZkKxKQjGbztOvCL2uFO8sbhMdV5KI5X0IGu3pEEcHyD1OhWgHp-uWZhRcebAkGrBBY4FQ8zXXiV0GAAXeJ-6lQ9CAqGcYblwKE5-mX5zkGcerxTl93orWf_1BS3Ta6ibiUDUGhiH1-eWfUmL_k1IugnZqh8Plf6WXD8cM71tfQ85yVn5Qd48lksIKgr3XR9FobDS6oT2yPPyOIF0vYyicrDP0uX_3vA&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNSphWcpMwX1hB2EPcdB57LtHlorI2Xf7aaQfnK_xLQ0AdClRYF1bstCgo3FJV6ZLd48NQuHtz5xod8Bni2LK_ybZmq6yaVCk41WAo0QX6oME0CoewT7NZWpynfydgTh5gFtJD0O_iNgc7aGcPdQRMoOttcJfguzduSdSwpqSKa7aYMlKIIhKnhP7-0LYQ_rihOILyHeifD_dhCWtkiZA2UnTCk67PQ5m2eSzOLudYZ_lHUrTh4eu3m8OijHWQfbed2OSzLpqhRC5EAJvqDfpwftChvcpMU-I3pwmIgv8y54sLP47gUFhsVHw5X5ADEv-Twp-WI_MdA8e0sW6wxM3gK-ia1lNF-Y8-E5Pk3p2gj3xNjaxwKy86Uz2dO1td5tk5Rn-Pc6FYgCKS1I93xq1iT1PkkJ35mVPKpkVtv6JkjXrHw&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNRksrQ8sYADyaD-yfwzgkC1n3B6EjpL07DS2MsCMVzntL2zR7Lv__GRmsNmTaNiX85_p4laoHub7fW6OEObh4lQq4TQ8QFinA9cjmjOX5S9iQ9qaKmy76Js6wzwOno7yxMw0YESSAQFWKf0l26v3kgy9ebk43dF1L5RK_5EPOcgWUVlkrBflr0gCqv58_k1BNpwRqm9NSBNioPqYuppJrXXJubRS5LQv34gRSUZk_4dPG6JIidqDhQhqCDoHhe_DfN47SbOP7Wp-jSo8AP7QapKOHtxoEKtj76EB-pbSXMoVbZRuOTAclNUZjV10hE3PCbsHh_3fFjw_XNXaMgec86BbO9MW2TCsy649Aeg6ipjNpcoTlLYI5g6t57mfLeB5kx5VqKe_TaKjlu3Q4a4qquMi_g0T0aYuSV2i5ifcWYzZFmd&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY",
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=AXQCQNQR_wlQw6vfmHWU2h55Rje3NwhG622h4BDtOCWMxNl842q7_uuTooYkwOzZ6Al-akDN5nd2dwgbFzWwgAOjroUUH8lFAZYw7gK6i8dsaKr6Fkz7UX7G7dQAt1mDimQBqW8_n5l3NFPQytEg4fVQA-jrH9Hy4iFx3aWhvQzSunrUHp3XApWj0l9YbGTvLr4-hyVnz-DF5Bycwbok_VVe5AtvJp5erpDyQZIKHBViA4R0Y6AEQoFEzTge8OkceyE0x9vIIa1UmefRp6tsJ34kUx0r8miMdavPCwlBMpXLjBSu4kn0cGfZrzvOs2x4vdZJVpgMijrRPF9ZrIIDQR3w4TKzcaCJbXIGvexn2Ibmux3eI5E36FoJj0mCPuG1k8ft_cjR6YARFLnZIQon3Lzs0MYX8tGT3Ekhlldh9Eb0_XcHkg&key=AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY"
+        ],
+        "reviews": [
+            "Air not cold\nOnly fill oil air\nAnd wait for\nis air ok?\nI am wait....",
+            "Quick vehicle check-up and accommodating to the needs of the customers. Thank you for modifying and working in a fast-paced and fixing the issues.",
+            "Services for every model of Mazda and Ford with reasonable price, by the way the queue is very long so please come early.",
+            "Best car service for Ford and Mazda",
+            "Exellent service. Expert for Mazda and Ford"
+        ]
+    }
+]

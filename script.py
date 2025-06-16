@@ -18,11 +18,11 @@ places_data = []
 
 
 for idx, place in enumerate(results.get('results', [])):
-    if idx >= 100:  
+    if idx >= 1:  
         break
     place_id = place['place_id']
 
-# ...existing code...
+
     details = gmaps.place(place_id=place_id, fields=[
         'name',
         'formatted_address',
@@ -31,9 +31,10 @@ for idx, place in enumerate(results.get('results', [])):
         'opening_hours',
         'formatted_phone_number',
         'website',
-        'photo'  # เปลี่ยนจาก 'photos' เป็น 'photo'
+        'photo',
+        'rating',   # เพิ่ม field rating
+        'review'    # เพิ่ม field review
     ])
-    # ดึงข้อมูลรายละเอียดของสถานที่
     result = details.get('result', {})
     # ดึง url ของรูปทั้งหมด (ถ้ามี)
     photo_urls = []
@@ -45,22 +46,32 @@ for idx, place in enumerate(results.get('results', [])):
                 url = f"https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference={photo_reference}&key={API_KEY}"
                 photo_urls.append(url)
 
+    # ดึงรีวิว (เฉพาะข้อความ)
+    reviews = []
+    for review in result.get('reviews', []):
+        text = review.get('text')
+        if text:
+            reviews.append(text)
+
     place_info = {
-        'name': result.get('name'),
+        'name': f"{idx+1}. {result.get('name')}",
         'address': result.get('formatted_address'),
+        'rating': result.get('rating'),
         'location': result.get('geometry', {}).get('location'),
         'url': result.get('url'),
         'opening_hours': result.get('opening_hours', {}).get('weekday_text'),
         'phone': result.get('formatted_phone_number'),
         'website': result.get('website'),
-        'photo_urls': photo_urls 
+        'photo_urls': photo_urls,
+        'reviews': reviews                  
     }
-# ...existing code...
+
+
 
     places_data.append(place_info)
 
 
-with open('places.json', 'w', encoding='utf-8') as f:
+with open('Tats.json', 'w', encoding='utf-8') as f:
     json.dump(places_data, f, ensure_ascii=False, indent=4)
 
-print(" ดึงข้อมูลสำเร็จ บันทึกลง places.json แล้ว")
+print(" ดึงข้อมูลสำเร็จ บันทึกลง Tats.json แล้ว")
