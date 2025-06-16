@@ -18,7 +18,7 @@ places_data = []
 
 
 for idx, place in enumerate(results.get('results', [])):
-    if idx >= 20:  
+    if idx >= 100:  
         break
     place_id = place['place_id']
 
