@@ -8,7 +8,7 @@ gmaps = googlemaps.Client(key=API_KEY)
 
 # กำหนดพิกัด และ keyword ที่ต้องการค้นหา
 location = (13.8808, 100.5955)  
-radius = 25000
+radius = 50000 # 50 กิโลเมตร
 keyword = 'ร้านซ่อมรถยนต์'
 
 
@@ -33,16 +33,17 @@ for idx, place in enumerate(results.get('results', [])):
         'website',
         'photo'  # เปลี่ยนจาก 'photos' เป็น 'photo'
     ])
-# ...existing code...
-
+    # ดึงข้อมูลรายละเอียดของสถานที่
     result = details.get('result', {})
-    # ดึง url ของรูปแรก (ถ้ามี)
-    photo_url = None
+    # ดึง url ของรูปทั้งหมด (ถ้ามี)
+    photo_urls = []
     photos = result.get('photos')
-    if photos and len(photos) > 0:
-        photo_reference = photos[0].get('photo_reference')
-        if photo_reference:
-            photo_url = f"https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference={photo_reference}&key={API_KEY}"
+    if photos:
+        for photo in photos:
+            photo_reference = photo.get('photo_reference')
+            if photo_reference:
+                url = f"https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference={photo_reference}&key={API_KEY}"
+                photo_urls.append(url)
 
     place_info = {
         'name': result.get('name'),
@@ -52,7 +53,7 @@ for idx, place in enumerate(results.get('results', [])):
         'opening_hours': result.get('opening_hours', {}).get('weekday_text'),
         'phone': result.get('formatted_phone_number'),
         'website': result.get('website'),
-        'photo_url': photo_url
+        'photo_urls': photo_urls  # เปลี่ยนจาก photo_url เป็น photo_urls (list)
     }
 # ...existing code...
 
