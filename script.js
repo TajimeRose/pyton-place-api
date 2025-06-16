@@ -1,7 +1,8 @@
 const axios = require('axios');
 const fs = require('fs');
+require('dotenv').config();
 
-const API_KEY = 'AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY'; // ใส่ API Key ของคุณ
+const API_KEY = process.env.API_KEY; // ใส่ API Key ของคุณ
 const location = '13.8808,100.5955';
 const radius = 50000;
 const keyword = encodeURIComponent('ร้านซ่อมรถยนต์');
