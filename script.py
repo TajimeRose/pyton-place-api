@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 
 
-API_KEY = 'AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY'
+API_KEY = ''
 gmaps = googlemaps.Client(key=API_KEY)
 
 # กำหนดพิกัด และ keyword ที่ต้องการค้นหา

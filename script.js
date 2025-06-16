@@ -1,7 +1,7 @@
 const axios = require('axios');
 const fs = require('fs');
 
-const API_KEY = 'AIzaSyAP3MjfWq561cbV08c6uN1TvsTS9YfkKKY'; // ใส่ API Key ของคุณ
+const API_KEY = ''; 
 const location = '13.8808,100.5955';
 const radius = 50000;
 const keyword = encodeURIComponent('ร้านซ่อมรถยนต์');
@@ -39,7 +39,7 @@ async function getPlaceDetails(place_id) {
             const place = results[idx];
             const details = await getPlaceDetails(place.place_id);
 
-            // ดึง url ของรูปทั้งหมด
+
             let photo_urls = [];
             if (details.photos) {
                 photo_urls = details.photos.map(photo =>
@@ -47,7 +47,7 @@ async function getPlaceDetails(place_id) {
                 );
             }
 
-            // ดึงรีวิว (เฉพาะข้อความ)
+            
             let reviews = [];
             if (details.reviews) {
                 reviews = details.reviews.map(r => r.text).filter(Boolean);
