@@ -1,0 +1,182 @@
+[
+    {
+        "name": "อู่ประชาชื่น 33 ซ่อมรถ",
+        "address": "48 Soi Pracha Chuen 33, Khwaeng Wong Sawang, Khet Bang Sue, Krung Thep Maha Nakhon 10800, Thailand",
+        "location": {
+            "lat": 13.8382769,
+            "lng": 100.5392979
+        },
+        "url": "https://maps.google.com/?cid=10316113273972013951",
+        "opening_hours": [
+            "Monday: 9:00 AM – 5:00 PM",
+            "Tuesday: 9:00 AM – 5:00 PM",
+            "Wednesday: 9:00 AM – 5:00 PM",
+            "Thursday: 9:00 AM – 5:00 PM",
+            "Friday: 9:00 AM – 5:00 PM",
+            "Saturday: 9:00 AM – 5:00 PM",
+            "Sunday: 9:00 AM – 5:00 PM"
+        ]
+    },
+    {
+        "name": "อู่ซ่อมรถโพธิ์ทองบริการ24ชั่วโมง",
+        "address": "442 Thanon Vibhavadi Rangsit, Khwaeng Sanambin, Khet Don Mueang, Krung Thep Maha Nakhon 10210, Thailand",
+        "location": {
+            "lat": 13.9475331,
+            "lng": 100.6158281
+        },
+        "url": "https://maps.google.com/?cid=6938062088089874406",
+        "opening_hours": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    {
+        "name": "อู่รับซ่อมมาสด้า RT Auto Garage",
+        "address": "4 Soi Lat Pla Khao 8, ลาดพร้าว Khet Lat Phrao, Krung Thep Maha Nakhon 10230, Thailand",
+        "location": {
+            "lat": 13.8343629,
+            "lng": 100.5934219
+        },
+        "url": "https://maps.google.com/?cid=17972927130394226610",
+        "opening_hours": [
+            "Monday: 9:00 AM – 6:00 PM",
+            "Tuesday: 9:00 AM – 6:00 PM",
+            "Wednesday: 9:00 AM – 6:00 PM",
+            "Thursday: 9:00 AM – 6:00 PM",
+            "Friday: 9:00 AM – 6:00 PM",
+            "Saturday: 9:00 AM – 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    {
+        "name": "Ruamcharoen Auto Service Company Limited",
+        "address": "2 ถนนพหลโยธิน 46/1 Khwaeng Anusawari, Khet Bang Khen, Krung Thep Maha Nakhon 10220, Thailand",
+        "location": {
+            "lat": 13.8847865,
+            "lng": 100.6027434
+        },
+        "url": "https://maps.google.com/?cid=17972929280528395511",
+        "opening_hours": [
+            "Monday: 8:30 AM – 5:30 PM",
+            "Tuesday: 8:30 AM – 5:30 PM",
+            "Wednesday: 8:30 AM – 5:30 PM",
+            "Thursday: 8:30 AM – 5:30 PM",
+            "Friday: 8:30 AM – 5:30 PM",
+            "Saturday: 8:30 AM – 5:30 PM",
+            "Sunday: 9:00 AM – 5:00 PM"
+        ]
+    },
+    {
+        "name": "อู่พิทักษ์ยนต์บริการ",
+        "address": "ใกล้กับโรงพยาบาลสายไหม 21, 14 Thanon Chaloem Phong, Khwaeng Sai Mai, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
+        "location": {
+            "lat": 13.9290647,
+            "lng": 100.6834175
+        },
+        "url": "https://maps.google.com/?cid=15856926044630979485",
+        "opening_hours": [
+            "Monday: 9:00 AM – 5:30 PM",
+            "Tuesday: 9:00 AM – 5:30 PM",
+            "Wednesday: 9:00 AM – 5:30 PM",
+            "Thursday: 9:00 AM – 5:30 PM",
+            "Friday: 9:00 AM – 5:30 PM",
+            "Saturday: 9:00 AM – 5:30 PM",
+            "Sunday: 9:00 AM – 1:00 PM"
+        ]
+    },
+    {
+        "name": "อู่เปี๊ยกออโต้เซอร์วิส",
+        "address": "เลขที่3 ซอย คู้บอน 27 แยก 6 Khwaeng Tha Raeng, Khet Bang Khen, Krung Thep Maha Nakhon 10220, Thailand",
+        "location": {
+            "lat": 13.8566527,
+            "lng": 100.6672958
+        },
+        "url": "https://maps.google.com/?cid=13822371823151289782",
+        "opening_hours": [
+            "Monday: 8:30 AM – 6:00 PM",
+            "Tuesday: 8:30 AM – 6:00 PM",
+            "Wednesday: 8:30 AM – 6:00 PM",
+            "Thursday: 8:30 AM – 6:00 PM",
+            "Friday: 8:30 AM – 6:00 PM",
+            "Saturday: 8:30 AM – 6:00 PM",
+            "Sunday: 8:30 AM – 6:00 PM"
+        ]
+    },
+    {
+        "name": "ร้านซ่อมมอเตอร์ไซค์ มนัสเซอร์วิส",
+        "address": "390 Lat Phrao 87, Khlong Chaokhun Sing, Khet Wang Thonglang, Krung Thep Maha Nakhon 10310, Thailand",
+        "location": {
+            "lat": 13.7940738,
+            "lng": 100.618953
+        },
+        "url": "https://maps.google.com/?cid=899733143010818428",
+        "opening_hours": [
+            "Monday: 8:00 AM – 8:00 PM",
+            "Tuesday: 8:00 AM – 8:00 PM",
+            "Wednesday: 8:00 AM – 8:00 PM",
+            "Thursday: 8:00 AM – 8:00 PM",
+            "Friday: 8:00 AM – 8:00 PM",
+            "Saturday: 8:00 AM – 8:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    {
+        "name": "อู่จ่าบอล การช่างเซอร์วิส",
+        "address": "ตรงข้ามร้านซักรีด24ซม Thanon Phing Nakhon, Khwaeng Thung Song Hong, Khet Lak Si, Krung Thep Maha Nakhon 10210, Thailand",
+        "location": {
+            "lat": 13.9093432,
+            "lng": 100.564003
+        },
+        "url": "https://maps.google.com/?cid=13089828181464614929",
+        "opening_hours": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+        ]
+    },
+    {
+        "name": "อู่ช่างต้นซ่อมนิสสัน",
+        "address": "98 หมู่บ้านแก้วประกาศิต หมู่ที่4 ถ.สุขาภิบาล5.ซ.สุขาภิบาล5 35/1 เเขวงออเงิน Khwaeng Khlong Thanon, Khet Sai Mai, Krung Thep Maha Nakhon 10220, Thailand",
+        "location": {
+            "lat": 13.8879151,
+            "lng": 100.6503167
+        },
+        "url": "https://maps.google.com/?cid=10948802433480303813",
+        "opening_hours": [
+            "Monday: 9:00 AM – 6:00 PM",
+            "Tuesday: 9:00 AM – 6:00 PM",
+            "Wednesday: 9:00 AM – 6:00 PM",
+            "Thursday: 9:00 AM – 6:00 PM",
+            "Friday: 9:00 AM – 6:00 PM",
+            "Saturday: 9:00 AM – 6:00 PM",
+            "Sunday: Closed"
+        ]
+    },
+    {
+        "name": "นวลจันทร์การช่าง",
+        "address": "115/54 ซอยรามอินทรา40 ถนนรามอินทรา แขวงคลองกุ่ม Khwaeng Nuanchan, Khet Bueng Kum, Krung Thep Maha Nakhon 10230, Thailand",
+        "location": {
+            "lat": 13.8430705,
+            "lng": 100.6427328
+        },
+        "url": "https://maps.google.com/?cid=13682837068728617428",
+        "opening_hours": [
+            "Monday: 8:00 AM – 6:00 PM",
+            "Tuesday: 8:00 AM – 6:00 PM",
+            "Wednesday: 8:00 AM – 6:00 PM",
+            "Thursday: 8:00 AM – 6:00 PM",
+            "Friday: 8:00 AM – 6:00 PM",
+            "Saturday: 8:00 AM – 6:00 PM",
+            "Sunday: 8:00 AM – 6:00 PM"
+        ]
+    }
+]
