@@ -18,7 +18,7 @@ places_data = []
 
 
 for idx, place in enumerate(results.get('results', [])):
-    if idx >= 5:  # จำกัดผลลัพธ์ที่ 5 แห่ง
+    if idx >= 20:  
         break
     place_id = place['place_id']
 
@@ -53,7 +53,7 @@ for idx, place in enumerate(results.get('results', [])):
         'opening_hours': result.get('opening_hours', {}).get('weekday_text'),
         'phone': result.get('formatted_phone_number'),
         'website': result.get('website'),
-        'photo_urls': photo_urls  # เปลี่ยนจาก photo_url เป็น photo_urls (list)
+        'photo_urls': photo_urls 
     }
 # ...existing code...
 
